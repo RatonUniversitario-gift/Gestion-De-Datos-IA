@@ -1,0 +1,6 @@
+2026-04-29 16:00:38 - INFO - Iniciando proceso de ingesta para la fecha: 29042026
+2026-04-29 16:00:39 - INFO - Éxito: JSON crudo guardado en data/raw/compras_29042026.json
+2026-04-29 16:00:39 - WARNING - No se encontraron datos en el 'Listado' o el ticket de acceso es inválido.
+2026-04-29 16:01:02 - INFO - Iniciando proceso de ingesta para la fecha: 29042026
+2026-04-29 16:01:03 - INFO - Éxito: JSON crudo guardado en data/raw/compras_29042026.json
+2026-04-29 16:01:03 - WARNING - No se encontraron datos en el 'Listado' o el ticket de acceso es inválido.

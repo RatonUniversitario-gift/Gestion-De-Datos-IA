@@ -90,6 +90,16 @@ def extraerDetalles(codigos):
                 tipo = orden.get("Tipo", "")
                 tipo_moneda = orden.get("TipoMoneda", "")
                 
+                tiene_items = orden.get("TieneItems", "")
+                promedio_calificacion = orden.get("PromedioCalificacion", "")
+                cantidad_evaluacion = orden.get("CantidadEvaluacion", "")
+                orden_descuentos = orden.get("Descuentos", "")
+                orden_cargos = orden.get("Cargos", "")
+                orden_total_neto = orden.get("TotalNeto", "")
+                orden_porcentaje_iva = orden.get("PorcentajeIva", "")
+                orden_impuestos = orden.get("Impuestos", "")
+                orden_total = orden.get("Total", "")
+                
                 fechas = orden.get("Fechas", {})
                 f_creacion = fechas.get("FechaCreacion", "")
                 f_envio = fechas.get("FechaEnvio", "")
@@ -108,27 +118,33 @@ def extraerDetalles(codigos):
                     filas_csv.append({
                         "Codigo": cod, "Nombre": nombre, "CodigoEstado": cod_estado,
                         "CodigoTipo": cod_tipo, "Tipo": tipo, "TipoMoneda": tipo_moneda,
+                        "TieneItems": tiene_items, "PromedioCalificacion": promedio_calificacion, "CantidadEvaluacion": cantidad_evaluacion,
+                        "OrdenDescuentos": orden_descuentos, "OrdenCargos": orden_cargos, "OrdenTotalNeto": orden_total_neto,
+                        "OrdenPorcentajeIva": orden_porcentaje_iva, "OrdenImpuestos": orden_impuestos, "OrdenTotal": orden_total,
                         "FechaCreacion": f_creacion, "FechaEnvio": f_envio,
                         "FechaAceptacion": f_aceptacion, "FechaCancelacion": f_cancelacion,
                         "FechaUltimaModificacion": f_ultima_mod, "CantidadItems": cantidad_items,
                         "Producto": "", "Cantidad": "", "PrecioNeto": "",
-                        "TotalCargos": "", "TotalDescuentos": "", "TotalImpuestos": "", "Total": ""
+                        "ItemTotalCargos": "", "ItemTotalDescuentos": "", "ItemTotalImpuestos": "", "ItemTotal": ""
                     })
                 else:
                     for item in listado_items:
                         filas_csv.append({
                             "Codigo": cod, "Nombre": nombre, "CodigoEstado": cod_estado,
                             "CodigoTipo": cod_tipo, "Tipo": tipo, "TipoMoneda": tipo_moneda,
+                            "TieneItems": tiene_items, "PromedioCalificacion": promedio_calificacion, "CantidadEvaluacion": cantidad_evaluacion,
+                            "OrdenDescuentos": orden_descuentos, "OrdenCargos": orden_cargos, "OrdenTotalNeto": orden_total_neto,
+                            "OrdenPorcentajeIva": orden_porcentaje_iva, "OrdenImpuestos": orden_impuestos, "OrdenTotal": orden_total,
                             "FechaCreacion": f_creacion, "FechaEnvio": f_envio,
                             "FechaAceptacion": f_aceptacion, "FechaCancelacion": f_cancelacion,
                             "FechaUltimaModificacion": f_ultima_mod, "CantidadItems": cantidad_items,
                             "Producto": item.get("Producto", ""),
                             "Cantidad": item.get("Cantidad", ""),
                             "PrecioNeto": item.get("PrecioNeto", ""),
-                            "TotalCargos": item.get("TotalCargos", ""),
-                            "TotalDescuentos": item.get("TotalDescuentos", ""),
-                            "TotalImpuestos": item.get("TotalImpuestos", ""),
-                            "Total": item.get("Total", "")
+                            "ItemTotalCargos": item.get("TotalCargos", ""),
+                            "ItemTotalDescuentos": item.get("TotalDescuentos", ""),
+                            "ItemTotalImpuestos": item.get("TotalImpuestos", ""),
+                            "ItemTotal": item.get("Total", "")
                         })
                         
         except Exception as e:

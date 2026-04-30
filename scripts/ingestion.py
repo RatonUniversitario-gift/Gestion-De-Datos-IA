@@ -3,10 +3,10 @@ import json
 import requests
 import pandas as pd
 import logging
+import time
 from datetime import datetime
 
 # --- CONFIGURACIÓN DEL LOGGING ---
-# Esto asegura que los logs se guarden en la carpeta correcta con fecha y hora
 log_path = os.path.join("logs", "ingestion.log")
 logging.basicConfig(
     filename=log_path,
@@ -17,7 +17,6 @@ logging.basicConfig(
 )
 
 def consultar_chilecompra():
-    # 1. Configuración de credenciales
     TICKET = os.getenv("CHILECOMPRA_TICKET", "token")
     fecha = datetime.now().strftime("%d%m%Y")
     
@@ -28,7 +27,7 @@ def consultar_chilecompra():
         logging.info(f"Iniciando proceso de ingesta para la fecha: {fecha}")
         
         res = requests.get(url, timeout=30)
-        res.raise_for_status()  # Verifica si hubo error en la petición HTTP
+        res.raise_for_status()  
         data = res.json()
         
         # Guardar Raw Data (JSON)
@@ -51,6 +50,11 @@ def consultar_chilecompra():
             
             logging.info(f"Éxito: Datos procesados guardados en {output_path}")
             logging.info(f"Registros procesados: {len(df_final)}")
+            
+            # Extraer detalles de los primeros 10
+            primeros_10 = df_final['Codigo'].head(10).tolist()
+            if primeros_10:
+                extraerDetalles(primeros_10)
         else:
             logging.warning("No se encontraron datos en el 'Listado' o el ticket de acceso es inválido.")
             
@@ -58,6 +62,91 @@ def consultar_chilecompra():
         logging.error(f"Error de conexión o timeout con la API de ChileCompra: {e}")
     except Exception as e:
         logging.error(f"Error crítico no esperado durante el proceso: {e}")
+
+
+def extraerDetalles(codigos):
+    TICKET = os.getenv("CHILECOMPRA_TICKET", "token")
+    fecha = datetime.now().strftime("%d%m%Y")
+    detalles_raw = []
+    filas_csv = []
+    
+    for codigo in codigos:
+        url = f"https://api.mercadopublico.cl/servicios/v1/publico/ordenesdecompra.json?codigo={codigo}&ticket={TICKET}"
+        try:
+            logging.info(f"Obteniendo detalle para: {codigo}")
+            time.sleep(1.5)  # Esperar para no saturar la API (429 Too Many Requests)
+            res = requests.get(url, timeout=30)
+            res.raise_for_status()
+            data = res.json()
+            detalles_raw.append(data)
+            
+            if "Listado" in data and data["Listado"]:
+                orden = data["Listado"][0]
+                
+                cod = orden.get("Codigo", "")
+                nombre = orden.get("Nombre", "")
+                cod_estado = orden.get("CodigoEstado", "")
+                cod_tipo = orden.get("CodigoTipo", "")
+                tipo = orden.get("Tipo", "")
+                tipo_moneda = orden.get("TipoMoneda", "")
+                
+                fechas = orden.get("Fechas", {})
+                f_creacion = fechas.get("FechaCreacion", "")
+                f_envio = fechas.get("FechaEnvio", "")
+                f_aceptacion = fechas.get("FechaAceptacion", "")
+                f_cancelacion = fechas.get("FechaCancelacion", "")
+                f_ultima_mod = fechas.get("FechaUltimaModificacion", "")
+                
+                items_obj = orden.get("Items", {})
+                if not isinstance(items_obj, dict):
+                    items_obj = {}
+                    
+                cantidad_items = items_obj.get("Cantidad", 0)
+                listado_items = items_obj.get("Listado", [])
+                
+                if not listado_items:
+                    filas_csv.append({
+                        "Codigo": cod, "Nombre": nombre, "CodigoEstado": cod_estado,
+                        "CodigoTipo": cod_tipo, "Tipo": tipo, "TipoMoneda": tipo_moneda,
+                        "FechaCreacion": f_creacion, "FechaEnvio": f_envio,
+                        "FechaAceptacion": f_aceptacion, "FechaCancelacion": f_cancelacion,
+                        "FechaUltimaModificacion": f_ultima_mod, "CantidadItems": cantidad_items,
+                        "Producto": "", "Cantidad": "", "PrecioNeto": "",
+                        "TotalCargos": "", "TotalDescuentos": "", "TotalImpuestos": "", "Total": ""
+                    })
+                else:
+                    for item in listado_items:
+                        filas_csv.append({
+                            "Codigo": cod, "Nombre": nombre, "CodigoEstado": cod_estado,
+                            "CodigoTipo": cod_tipo, "Tipo": tipo, "TipoMoneda": tipo_moneda,
+                            "FechaCreacion": f_creacion, "FechaEnvio": f_envio,
+                            "FechaAceptacion": f_aceptacion, "FechaCancelacion": f_cancelacion,
+                            "FechaUltimaModificacion": f_ultima_mod, "CantidadItems": cantidad_items,
+                            "Producto": item.get("Producto", ""),
+                            "Cantidad": item.get("Cantidad", ""),
+                            "PrecioNeto": item.get("PrecioNeto", ""),
+                            "TotalCargos": item.get("TotalCargos", ""),
+                            "TotalDescuentos": item.get("TotalDescuentos", ""),
+                            "TotalImpuestos": item.get("TotalImpuestos", ""),
+                            "Total": item.get("Total", "")
+                        })
+                        
+        except Exception as e:
+            logging.error(f"Error al obtener detalle {codigo}: {e}")
+            
+    # Guardar raw JSON
+    if detalles_raw:
+        raw_path = f"data/raw/detalleCompra_{fecha}.json"
+        with open(raw_path, "w", encoding="utf-8") as f:
+            json.dump(detalles_raw, f, ensure_ascii=False, indent=4)
+        logging.info(f"Éxito: Detalles raw guardados en {raw_path}")
+        
+    # Guardar processed CSV
+    if filas_csv:
+        df_detalles = pd.DataFrame(filas_csv)
+        csv_path = f"data/processed/detalleCompra_{fecha}.csv"
+        df_detalles.to_csv(csv_path, index=False, encoding="utf-8-sig")
+        logging.info(f"Éxito: Detalles normalizados guardados en {csv_path}")
 
 if __name__ == "__main__":
     consultar_chilecompra()

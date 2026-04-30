@@ -8,3 +8,40 @@
 2026-04-29 23:37:49 - INFO - Éxito: JSON crudo guardado en data/raw/compras_29042026.json
 2026-04-29 23:37:50 - INFO - Éxito: Datos procesados guardados en data/processed/compras_29042026.csv
 2026-04-29 23:37:50 - INFO - Registros procesados: 18674
+2026-04-29 23:06:19 - INFO - Iniciando proceso de ingesta para la fecha: 29042026
+2026-04-29 23:06:19 - INFO - Éxito: JSON crudo guardado en data/raw/compras_29042026.json
+2026-04-29 23:06:19 - INFO - Éxito: Datos procesados guardados en data/processed/compras_29042026.csv
+2026-04-29 23:06:19 - INFO - Registros procesados: 18894
+2026-04-29 23:06:19 - INFO - Obteniendo detalle para: 1000813-139-AG26
+2026-04-29 23:06:20 - INFO - Obteniendo detalle para: 1002772-4640-SE26
+2026-04-29 23:06:20 - INFO - Obteniendo detalle para: 1002772-5758-SE26
+2026-04-29 23:06:20 - ERROR - Error al obtener detalle 1002772-5758-SE26: 429 Client Error: Too Many Requests for url: https://api.mercadopublico.cl/servicios/v1/publico/ordenesdecompra.json?codigo=1002772-5758-SE26&ticket=7250FDEC-4C82-4B0F-8B83-02B9452D00D7
+2026-04-29 23:06:20 - INFO - Obteniendo detalle para: 1002772-5799-AG26
+2026-04-29 23:06:21 - INFO - Obteniendo detalle para: 1002772-5949-SE26
+2026-04-29 23:06:22 - INFO - Obteniendo detalle para: 1002772-5976-AG26
+2026-04-29 23:06:22 - INFO - Obteniendo detalle para: 1002772-5979-AG26
+2026-04-29 23:06:22 - INFO - Obteniendo detalle para: 1003473-1727-AG26
+2026-04-29 23:06:23 - ERROR - Error al obtener detalle 1003473-1727-AG26: 429 Client Error: Too Many Requests for url: https://api.mercadopublico.cl/servicios/v1/publico/ordenesdecompra.json?codigo=1003473-1727-AG26&ticket=7250FDEC-4C82-4B0F-8B83-02B9452D00D7
+2026-04-29 23:06:23 - INFO - Obteniendo detalle para: 1003473-1734-CM26
+2026-04-29 23:06:23 - ERROR - Error al obtener detalle 1003473-1734-CM26: 429 Client Error: Too Many Requests for url: https://api.mercadopublico.cl/servicios/v1/publico/ordenesdecompra.json?codigo=1003473-1734-CM26&ticket=7250FDEC-4C82-4B0F-8B83-02B9452D00D7
+2026-04-29 23:06:23 - INFO - Obteniendo detalle para: 1003473-1774-AG26
+2026-04-29 23:06:23 - ERROR - Error al obtener detalle 1003473-1774-AG26: 429 Client Error: Too Many Requests for url: https://api.mercadopublico.cl/servicios/v1/publico/ordenesdecompra.json?codigo=1003473-1774-AG26&ticket=7250FDEC-4C82-4B0F-8B83-02B9452D00D7
+2026-04-29 23:06:23 - INFO - Éxito: Detalles raw guardados en data/raw/detalleCompra_29042026.json
+2026-04-29 23:06:23 - INFO - Éxito: Detalles normalizados guardados en data/processed/detalleCompra_29042026.csv
+2026-04-29 23:07:29 - INFO - Iniciando proceso de ingesta para la fecha: 29042026
+2026-04-29 23:07:30 - INFO - Éxito: JSON crudo guardado en data/raw/compras_29042026.json
+2026-04-29 23:07:30 - INFO - Éxito: Datos procesados guardados en data/processed/compras_29042026.csv
+2026-04-29 23:07:30 - INFO - Registros procesados: 18894
+2026-04-29 23:07:30 - INFO - Obteniendo detalle para: 1000-5-AG26
+2026-04-29 23:07:33 - INFO - Obteniendo detalle para: 1000813-118-AG26
+2026-04-29 23:07:35 - INFO - Obteniendo detalle para: 1002584-148-TD26
+2026-04-29 23:07:37 - INFO - Obteniendo detalle para: 1002584-48-SE26
+2026-04-29 23:07:39 - INFO - Obteniendo detalle para: 1002588-13-CM26
+2026-04-29 23:07:41 - INFO - Obteniendo detalle para: 1002772-5871-AG26
+2026-04-29 23:07:51 - INFO - Obteniendo detalle para: 1002772-5935-SE26
+2026-04-29 23:07:53 - INFO - Obteniendo detalle para: 1002772-5951-AG26
+2026-04-29 23:07:54 - ERROR - Error al obtener detalle 1002772-5951-AG26: 429 Client Error: Too Many Requests for url: https://api.mercadopublico.cl/servicios/v1/publico/ordenesdecompra.json?codigo=1002772-5951-AG26&ticket=7250FDEC-4C82-4B0F-8B83-02B9452D00D7
+2026-04-29 23:07:54 - INFO - Obteniendo detalle para: 1002772-5956-AG26
+2026-04-29 23:07:56 - INFO - Obteniendo detalle para: 1002772-5970-AG26
+2026-04-29 23:07:58 - INFO - Éxito: Detalles raw guardados en data/raw/detalleCompra_29042026.json
+2026-04-29 23:07:58 - INFO - Éxito: Detalles normalizados guardados en data/processed/detalleCompra_29042026.csv

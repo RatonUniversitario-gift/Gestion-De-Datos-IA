@@ -1,12 +1,24 @@
-# Documentación de Gestión y Bitácora
+# Proceso de Ingesta y Transformación de Datos
 
-## Sistema de Logging
-Se ha integrado un sistema de registro de eventos para el monitoreo del pipeline de datos.
+Este documento detalla el flujo de trabajo (Pipeline ETL) implementado en el script `scripts/ingestion.py`. El objetivo principal es garantizar que los datos crudos se conviertan en información estructurada y de alta calidad para futuros desarrollos en Inteligencia Artificial.
 
-### Detalles Técnicos:
-- **Ubicación:** `logs/ingestion.log`
-- **Función:** Registra el éxito de la descarga de datos desde ChileCompra, advertencias por falta de datos y errores críticos de conexión.
-- **Importancia para IA:** Permite auditar que el modelo siempre reciba datos frescos y detectar fallos en la ingesta antes de que afecten el entrenamiento.
+## 1. Extracción (Extract)
+El proceso comienza obteniendo la información desde su fuente original. 
+*   Se utiliza la librería `requests` para realizar peticiones a la API o fuente de datos.
+*   Los datos obtenidos se descargan y almacenan en su formato nativo dentro del directorio `data/raw/` (ej. `compras_DDMMAAAA.json`). Esto nos permite tener un respaldo exacto de la información cruda en caso de necesitar reprocesarla en el futuro.
 
-## Automatización y Control
-El flujo ahora es capaz de reportar su estado de forma autónoma, facilitando la gestión de datos en un entorno de producción (MLOps).
+## 2. Transformación (Transform)
+Una vez que los datos crudos están asegurados, se inicia la limpieza y estructuración:
+*   Se utiliza `pandas` para cargar los archivos JSON y convertirlos en DataFrames.
+*   **Limpieza:** Se manejan valores nulos, se normalizan los tipos de datos (por ejemplo, asegurar que las fechas sean objetos *datetime* y los montos sean numéricos) y se eliminan duplicados si los hubiera.
+*   **Estructuración:** Las estructuras anidadas que suelen venir en los JSON (como detalles de compra dentro de una orden general) se "aplanan" para que encajen en un formato tabular.
+
+## 3. Carga (Load)
+El último paso del script en Python es guardar los datos procesados.
+*   El DataFrame resultante se exporta como un archivo separado por comas dentro del directorio `data/processed/` (ej. `compras_DDMMAAAA.csv`).
+*   Todo el proceso, incluyendo posibles errores de conexión o datos corruptos, queda registrado en `logs/ingestion.log` para facilitar la depuración y el monitoreo.
+
+## 4. Automatización (CI/CD)
+Para mantener el flujo de datos actualizado sin intervención manual, el proyecto utiliza **GitHub Actions**.
+*   El archivo `.github/workflows/ingesta.yml` define un *cron job* que ejecuta el script `ingestion.py` de forma automática según la periodicidad configurada (diaria, semanal, etc.).
+*   Una vez que el runner de GitHub termina de procesar los datos, hace un *commit* y un *push* automático de los nuevos archivos CSV a la rama principal del repositorio, manteniendo la carpeta `data/processed/` siempre al día.

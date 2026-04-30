@@ -1,24 +1,53 @@
-# Pipeline de Ingesta - ChileCompra
-Este proyecto automatiza la recolección diaria de órdenes de compra desde la API de mercado publico(ChileCompra) para su posterior analisis y predicción de precios.
+# Gestión de Datos para IA - Pipeline de Ingesta
 
-## Estructura del Proyecto
-- `scripts/`: Contiene `ingestion.py`, el script principal de extracción, transformación y carga (ETL).
-- `data/raw/`: Archivos JSON crudos por fecha.
-- `data/processed/`: Archivos CSV resultantes por fecha.
-- `logs/`: Registros históricos de ejecución del pipeline.
-- `docs/`: Documentación técnica detallada del proceso.
+Este repositorio contiene un pipeline automatizado de ingesta y procesamiento de datos (ETL). El proyecto se encarga de extraer datos en formato JSON (potencialmente desde una API), transformarlos y estructurarlos utilizando Pandas, para finalmente almacenarlos como archivos CSV listos para ser consumidos por modelos de Inteligencia Artificial.
 
-## Tecnologías Utilizadas
-- **Python 3.x**: Lógica de ingesta.
-- **Pandas**: Procesamiento y limpieza de datos.
-- **GitHub Actions**: Automatización de la tarea programada (cron diario).
-- **Logging**: Sistema de trazabilidad de errores y eventos.
+Tecnologías Utilizadas
 
-## Requisitos e Instalación
-Para ejecutar este proyecto localmente:
-1. Clonar el repositorio.
-2. Instalar dependencias: `pip install -r requirements.txt`
-3. Ejecutar: `python scripts/ingestion.py`
+*   **Python 3.x:** Lenguaje principal del script de ingesta.
+*   **Pandas:** Para la limpieza, transformación y estructuración de los datos.
+*   **Requests:** Para la extracción de datos desde fuentes externas/APIs.
+*   **GitHub Actions:** Para la automatización y ejecución programada del pipeline (`ingesta.yml`).
 
-## Gestión de Errores
-El sistema implementa un robusto manejo de excepciones y logging. Cualquier fallo en la conexión o en la estructura de los datos queda registrado en `logs/ingestion.log`, asegurando que el flujo de datos para la IA sea confiable y auditable.
+Estructura del Proyecto
+
+El repositorio sigue una arquitectura estándar para proyectos de datos:
+
+├── .github/workflows/   # Configuraciones de CI/CD (Automatización de ingesta)
+├── data/
+│   ├── processed/       # Datos limpios y estructurados listos para usar (.csv)
+│   └── raw/             # Datos crudos extraídos originalmente (.json)
+├── docs/                # Documentación técnica del proyecto
+├── logs/                # Registro de eventos y errores de la ejecución (ingestion.log)
+├── scripts/
+│   └── ingestion.py     # Script principal de extracción y transformación
+├── README.md            # Documentación principal
+└── requirements.txt     # Dependencias del proyecto
+
+Instalación y Uso Local
+
+Si deseas ejecutar este pipeline en tu propio entorno local, sigue estos pasos:
+
+1.  Clona este repositorio:
+    ```bash
+    git clone [https://github.com/TU_USUARIO/Gestion-De-Datos-IA.git](https://github.com/TU_USUARIO/Gestion-De-Datos-IA.git)
+    cd Gestion-De-Datos-IA
+    ```
+
+2.  Crea un entorno virtual e instala las dependencias:
+    ```bash
+    python -m venv venv
+    source venv/Scripts/activate  # En Windows
+    pip install -r requirements.txt
+    ```
+
+3.  Ejecuta el script de ingesta:
+    ```bash
+    python scripts/ingestion.py
+    ```
+
+El script leerá la configuración, extraerá los datos, registrará el proceso en `logs/ingestion.log` y guardará el resultado final en la carpeta `data/processed/`.
+
+Documentación Adicional
+
+Para entender en profundidad cómo los datos se transforman desde su estado crudo hasta el formato procesado, revisa el archivo [proceso.md](docs/proceso.md) en la carpeta de documentación.

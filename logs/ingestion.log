@@ -61,3 +61,19 @@
 2026-04-29 23:29:38 - INFO - Obteniendo detalle para: 1003473-1774-AG26
 2026-04-29 23:29:40 - INFO - Éxito: Detalles raw guardados en data/raw/detalleCompra_29042026.json
 2026-04-29 23:29:40 - INFO - Éxito: Detalles normalizados guardados en data/processed/detalleCompra_29042026.csv
+2026-04-30 12:16:43 - INFO - Iniciando proceso de ingesta para la fecha: 30042026
+2026-04-30 12:16:44 - INFO - Éxito: JSON crudo guardado en data/raw/compras_30042026.json
+2026-04-30 12:16:44 - INFO - Éxito: Datos procesados guardados en data/processed/compras_30042026.csv
+2026-04-30 12:16:44 - INFO - Registros procesados: 449
+2026-04-30 12:16:44 - INFO - Obteniendo detalle para: 1002772-5973-AG26
+2026-04-30 12:16:46 - INFO - Obteniendo detalle para: 1002772-5983-AG26
+2026-04-30 12:16:48 - INFO - Obteniendo detalle para: 1020-110-SE26
+2026-04-30 12:16:50 - INFO - Obteniendo detalle para: 1028-99-SE26
+2026-04-30 12:16:52 - INFO - Obteniendo detalle para: 1052642-6-AG26
+2026-04-30 12:16:54 - INFO - Obteniendo detalle para: 1057055-740-SE26
+2026-04-30 12:16:56 - INFO - Obteniendo detalle para: 1057379-157-CM26
+2026-04-30 12:16:58 - INFO - Obteniendo detalle para: 1057389-1809-CM26
+2026-04-30 12:17:00 - INFO - Obteniendo detalle para: 1057402-2976-SE26
+2026-04-30 12:17:02 - INFO - Obteniendo detalle para: 1057402-2999-SE26
+2026-04-30 12:17:04 - INFO - Éxito: Detalles raw guardados en data/raw/detalleCompra_30042026.json
+2026-04-30 12:17:04 - INFO - Éxito: Detalles normalizados guardados en data/processed/detalleCompra_30042026.csv

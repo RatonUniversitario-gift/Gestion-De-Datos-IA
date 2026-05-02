@@ -1,0 +1,77 @@
+{
+    "Cantidad": 14,
+    "FechaCreacion": "2026-05-02T11:49:19.68043Z",
+    "Version": "v1",
+    "Listado": [
+        {
+            "Codigo": "1063538-3454-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 1063538-878-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1426098-109-CM26",
+            "Nombre": "P.02 IP-IRC CORONEL, REQ. N° 6// COMPRA TRIMESTRAL DE ABARROTES",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1549-1811-AG26",
+            "Nombre": "PAC MENOR 100 UTM 107-5040 PAQ.CESAREA DESECH.ESTERIL ",
+            "CodigoEstado": 4
+        },
+        {
+            "Codigo": "2080-3722-SE26",
+            "Nombre": "CUOTA 4 DE 24 MARZO 2026",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "2432-275-AG26",
+            "Nombre": "Sc. Orden de Compra generada por invitación a compra ágil: 2432-308-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "2771-230-AG26",
+            "Nombre": "SOPI 290, COMPRA DE TABLET, RELOJ INTELIGENTE Y BOLIGRAFO METALICO (DIDECO-ORG.COMUNITARIAS), IDDOC: 315974 COORDINAR CON KATHERINE LUNA AL FONO 9-77704275 O AL CORREO katherine.luna@munichiguayante.cl",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "3447-1018-SE26",
+            "Nombre": "Anexo Contrato . Amplía Plazo Ejecución Obra",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "3992-40-SE26",
+            "Nombre": "PROYECTO DE IMPLEMENTACIÓN DE SALAS SENSORIALES",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "4404-76-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 4404-44-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "4777-367-AG26",
+            "Nombre": "10 M3 CUBICO DE ARIDOS",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "4850-18-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 4850-17-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "539119-1404-SE26",
+            "Nombre": "B.1. SERVICIO DE LAVANDERÍA PARA EL HOTEL TRIZANO CORRESPONDIENTE DE ABRIL DEL AÑO 2026, DESDE LICITACIÓN N° 539119-13-LQ24. ADMINISTRADO POR LA DIRECCIÓN DE BIENESTAR DE CARABINEROS.",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "900-432-SE26",
+            "Nombre": "Hogar protegido Novavita abril",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "900-491-SE26",
+            "Nombre": "Hogar protegido Novavita mayo",
+            "CodigoEstado": 6
+        }
+    ]
+}

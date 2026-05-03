@@ -1,0 +1,215 @@
+2026-04-29 16:00:38 - INFO - Iniciando proceso de ingesta para la fecha: 29042026
+2026-04-29 16:00:39 - INFO - Éxito: JSON crudo guardado en data/raw/compras_29042026.json
+2026-04-29 16:00:39 - WARNING - No se encontraron datos en el 'Listado' o el ticket de acceso es inválido.
+2026-04-29 16:01:02 - INFO - Iniciando proceso de ingesta para la fecha: 29042026
+2026-04-29 16:01:03 - INFO - Éxito: JSON crudo guardado en data/raw/compras_29042026.json
+2026-04-29 16:01:03 - WARNING - No se encontraron datos en el 'Listado' o el ticket de acceso es inválido.
+2026-04-29 23:37:47 - INFO - Iniciando proceso de ingesta para la fecha: 29042026
+2026-04-29 23:37:49 - INFO - Éxito: JSON crudo guardado en data/raw/compras_29042026.json
+2026-04-29 23:37:50 - INFO - Éxito: Datos procesados guardados en data/processed/compras_29042026.csv
+2026-04-29 23:37:50 - INFO - Registros procesados: 18674
+2026-04-29 23:06:19 - INFO - Iniciando proceso de ingesta para la fecha: 29042026
+2026-04-29 23:06:19 - INFO - Éxito: JSON crudo guardado en data/raw/compras_29042026.json
+2026-04-29 23:06:19 - INFO - Éxito: Datos procesados guardados en data/processed/compras_29042026.csv
+2026-04-29 23:06:19 - INFO - Registros procesados: 18894
+2026-04-29 23:06:19 - INFO - Obteniendo detalle para: 1000813-139-AG26
+2026-04-29 23:06:20 - INFO - Obteniendo detalle para: 1002772-4640-SE26
+2026-04-29 23:06:20 - INFO - Obteniendo detalle para: 1002772-5758-SE26
+2026-04-29 23:06:20 - ERROR - Error al obtener detalle 1002772-5758-SE26: 429 Client Error: Too Many Requests for url: https://api.mercadopublico.cl/servicios/v1/publico/ordenesdecompra.json?codigo=1002772-5758-SE26&ticket=7250FDEC-4C82-4B0F-8B83-02B9452D00D7
+2026-04-29 23:06:20 - INFO - Obteniendo detalle para: 1002772-5799-AG26
+2026-04-29 23:06:21 - INFO - Obteniendo detalle para: 1002772-5949-SE26
+2026-04-29 23:06:22 - INFO - Obteniendo detalle para: 1002772-5976-AG26
+2026-04-29 23:06:22 - INFO - Obteniendo detalle para: 1002772-5979-AG26
+2026-04-29 23:06:22 - INFO - Obteniendo detalle para: 1003473-1727-AG26
+2026-04-29 23:06:23 - ERROR - Error al obtener detalle 1003473-1727-AG26: 429 Client Error: Too Many Requests for url: https://api.mercadopublico.cl/servicios/v1/publico/ordenesdecompra.json?codigo=1003473-1727-AG26&ticket=7250FDEC-4C82-4B0F-8B83-02B9452D00D7
+2026-04-29 23:06:23 - INFO - Obteniendo detalle para: 1003473-1734-CM26
+2026-04-29 23:06:23 - ERROR - Error al obtener detalle 1003473-1734-CM26: 429 Client Error: Too Many Requests for url: https://api.mercadopublico.cl/servicios/v1/publico/ordenesdecompra.json?codigo=1003473-1734-CM26&ticket=7250FDEC-4C82-4B0F-8B83-02B9452D00D7
+2026-04-29 23:06:23 - INFO - Obteniendo detalle para: 1003473-1774-AG26
+2026-04-29 23:06:23 - ERROR - Error al obtener detalle 1003473-1774-AG26: 429 Client Error: Too Many Requests for url: https://api.mercadopublico.cl/servicios/v1/publico/ordenesdecompra.json?codigo=1003473-1774-AG26&ticket=7250FDEC-4C82-4B0F-8B83-02B9452D00D7
+2026-04-29 23:06:23 - INFO - Éxito: Detalles raw guardados en data/raw/detalleCompra_29042026.json
+2026-04-29 23:06:23 - INFO - Éxito: Detalles normalizados guardados en data/processed/detalleCompra_29042026.csv
+2026-04-29 23:07:29 - INFO - Iniciando proceso de ingesta para la fecha: 29042026
+2026-04-29 23:07:30 - INFO - Éxito: JSON crudo guardado en data/raw/compras_29042026.json
+2026-04-29 23:07:30 - INFO - Éxito: Datos procesados guardados en data/processed/compras_29042026.csv
+2026-04-29 23:07:30 - INFO - Registros procesados: 18894
+2026-04-29 23:07:30 - INFO - Obteniendo detalle para: 1000-5-AG26
+2026-04-29 23:07:33 - INFO - Obteniendo detalle para: 1000813-118-AG26
+2026-04-29 23:07:35 - INFO - Obteniendo detalle para: 1002584-148-TD26
+2026-04-29 23:07:37 - INFO - Obteniendo detalle para: 1002584-48-SE26
+2026-04-29 23:07:39 - INFO - Obteniendo detalle para: 1002588-13-CM26
+2026-04-29 23:07:41 - INFO - Obteniendo detalle para: 1002772-5871-AG26
+2026-04-29 23:07:51 - INFO - Obteniendo detalle para: 1002772-5935-SE26
+2026-04-29 23:07:53 - INFO - Obteniendo detalle para: 1002772-5951-AG26
+2026-04-29 23:07:54 - ERROR - Error al obtener detalle 1002772-5951-AG26: 429 Client Error: Too Many Requests for url: https://api.mercadopublico.cl/servicios/v1/publico/ordenesdecompra.json?codigo=1002772-5951-AG26&ticket=7250FDEC-4C82-4B0F-8B83-02B9452D00D7
+2026-04-29 23:07:54 - INFO - Obteniendo detalle para: 1002772-5956-AG26
+2026-04-29 23:07:56 - INFO - Obteniendo detalle para: 1002772-5970-AG26
+2026-04-29 23:07:58 - INFO - Éxito: Detalles raw guardados en data/raw/detalleCompra_29042026.json
+2026-04-29 23:07:58 - INFO - Éxito: Detalles normalizados guardados en data/processed/detalleCompra_29042026.csv
+2026-04-29 23:29:20 - INFO - Iniciando proceso de ingesta para la fecha: 29042026
+2026-04-29 23:29:21 - INFO - Éxito: JSON crudo guardado en data/raw/compras_29042026.json
+2026-04-29 23:29:21 - INFO - Éxito: Datos procesados guardados en data/processed/compras_29042026.csv
+2026-04-29 23:29:21 - INFO - Registros procesados: 18895
+2026-04-29 23:29:21 - INFO - Obteniendo detalle para: 1000813-139-AG26
+2026-04-29 23:29:23 - INFO - Obteniendo detalle para: 1002772-4640-SE26
+2026-04-29 23:29:25 - INFO - Obteniendo detalle para: 1002772-5758-SE26
+2026-04-29 23:29:27 - INFO - Obteniendo detalle para: 1002772-5799-AG26
+2026-04-29 23:29:28 - INFO - Obteniendo detalle para: 1002772-5949-SE26
+2026-04-29 23:29:30 - INFO - Obteniendo detalle para: 1002772-5976-AG26
+2026-04-29 23:29:32 - INFO - Obteniendo detalle para: 1002772-5979-AG26
+2026-04-29 23:29:34 - INFO - Obteniendo detalle para: 1003473-1727-AG26
+2026-04-29 23:29:36 - INFO - Obteniendo detalle para: 1003473-1734-CM26
+2026-04-29 23:29:38 - INFO - Obteniendo detalle para: 1003473-1774-AG26
+2026-04-29 23:29:40 - INFO - Éxito: Detalles raw guardados en data/raw/detalleCompra_29042026.json
+2026-04-29 23:29:40 - INFO - Éxito: Detalles normalizados guardados en data/processed/detalleCompra_29042026.csv
+2026-04-30 12:16:43 - INFO - Iniciando proceso de ingesta para la fecha: 30042026
+2026-04-30 12:16:44 - INFO - Éxito: JSON crudo guardado en data/raw/compras_30042026.json
+2026-04-30 12:16:44 - INFO - Éxito: Datos procesados guardados en data/processed/compras_30042026.csv
+2026-04-30 12:16:44 - INFO - Registros procesados: 449
+2026-04-30 12:16:44 - INFO - Obteniendo detalle para: 1002772-5973-AG26
+2026-04-30 12:16:46 - INFO - Obteniendo detalle para: 1002772-5983-AG26
+2026-04-30 12:16:48 - INFO - Obteniendo detalle para: 1020-110-SE26
+2026-04-30 12:16:50 - INFO - Obteniendo detalle para: 1028-99-SE26
+2026-04-30 12:16:52 - INFO - Obteniendo detalle para: 1052642-6-AG26
+2026-04-30 12:16:54 - INFO - Obteniendo detalle para: 1057055-740-SE26
+2026-04-30 12:16:56 - INFO - Obteniendo detalle para: 1057379-157-CM26
+2026-04-30 12:16:58 - INFO - Obteniendo detalle para: 1057389-1809-CM26
+2026-04-30 12:17:00 - INFO - Obteniendo detalle para: 1057402-2976-SE26
+2026-04-30 12:17:02 - INFO - Obteniendo detalle para: 1057402-2999-SE26
+2026-04-30 12:17:04 - INFO - Éxito: Detalles raw guardados en data/raw/detalleCompra_30042026.json
+2026-04-30 12:17:04 - INFO - Éxito: Detalles normalizados guardados en data/processed/detalleCompra_30042026.csv
+2026-05-01 12:01:19 - INFO - Iniciando proceso de ingesta para la fecha: 01052026
+2026-05-01 12:01:19 - INFO - Éxito: JSON crudo guardado en data/raw/compras_01052026.json
+2026-05-01 12:01:19 - INFO - Éxito: Datos procesados guardados en data/processed/compras_01052026.csv
+2026-05-01 12:01:19 - INFO - Registros procesados: 67
+2026-05-01 12:01:19 - INFO - Obteniendo detalle para: 1057420-306-SE26
+2026-05-01 12:01:21 - INFO - Obteniendo detalle para: 1057489-6087-SE26
+2026-05-01 12:01:24 - INFO - Obteniendo detalle para: 1057489-6088-SE26
+2026-05-01 12:01:26 - INFO - Obteniendo detalle para: 1057489-6089-SE26
+2026-05-01 12:01:28 - INFO - Obteniendo detalle para: 1057489-6090-SE26
+2026-05-01 12:01:30 - INFO - Obteniendo detalle para: 1057489-6091-SE26
+2026-05-01 12:01:32 - INFO - Obteniendo detalle para: 1057489-6092-SE26
+2026-05-01 12:01:34 - INFO - Obteniendo detalle para: 1057489-6093-SE26
+2026-05-01 12:01:36 - INFO - Obteniendo detalle para: 1057489-6094-SE26
+2026-05-01 12:01:38 - INFO - Obteniendo detalle para: 1058097-471-SE26
+2026-05-01 12:01:40 - INFO - Éxito: Detalles raw guardados en data/raw/detalleCompra_01052026.json
+2026-05-01 12:01:40 - INFO - Éxito: Detalles normalizados guardados en data/processed/detalleCompra_01052026.csv
+2026-05-02 11:49:18 - INFO - Iniciando proceso de ingesta para la fecha: 02052026
+2026-05-02 11:49:19 - INFO - Éxito: JSON crudo guardado en data/raw/compras_02052026.json
+2026-05-02 11:49:19 - INFO - Éxito: Datos procesados guardados en data/processed/compras_02052026.csv
+2026-05-02 11:49:19 - INFO - Registros procesados: 14
+2026-05-02 11:49:19 - INFO - Obteniendo detalle para: 1063538-3454-AG26
+2026-05-02 11:49:22 - INFO - Obteniendo detalle para: 1426098-109-CM26
+2026-05-02 11:49:24 - INFO - Obteniendo detalle para: 1549-1811-AG26
+2026-05-02 11:49:26 - INFO - Obteniendo detalle para: 2080-3722-SE26
+2026-05-02 11:49:28 - INFO - Obteniendo detalle para: 2432-275-AG26
+2026-05-02 11:49:31 - INFO - Obteniendo detalle para: 2771-230-AG26
+2026-05-02 11:49:33 - INFO - Obteniendo detalle para: 3447-1018-SE26
+2026-05-02 11:49:35 - INFO - Obteniendo detalle para: 3992-40-SE26
+2026-05-02 11:49:37 - INFO - Obteniendo detalle para: 4404-76-AG26
+2026-05-02 11:49:39 - INFO - Obteniendo detalle para: 4777-367-AG26
+2026-05-02 11:49:41 - INFO - Éxito: Detalles raw guardados en data/raw/detalleCompra_02052026.json
+2026-05-02 11:49:41 - INFO - Éxito: Detalles normalizados guardados en data/processed/detalleCompra_02052026.csv
+2026-05-03 11:46:07 - INFO - Iniciando proceso de ingesta para la fecha: 03052026
+2026-05-03 11:46:08 - INFO - Éxito: JSON crudo guardado en data/raw/compras_03052026.json
+2026-05-03 11:46:08 - INFO - Éxito: Datos procesados guardados en data/processed/compras_03052026.csv
+2026-05-03 11:46:08 - INFO - Registros procesados: 7
+2026-05-03 11:46:08 - INFO - Obteniendo detalle para: 1002-160-SE26
+2026-05-03 11:46:10 - INFO - Obteniendo detalle para: 1173933-17-AG26
+2026-05-03 11:46:12 - ERROR - Error al obtener detalle 1173933-17-AG26: 429 Client Error: Too Many Requests for url: https://api.mercadopublico.cl/servicios/v1/publico/ordenesdecompra.json?codigo=1173933-17-AG26&ticket=7250FDEC-4C82-4B0F-8B83-02B9452D00D7
+2026-05-03 11:46:12 - INFO - Obteniendo detalle para: 2776-273-AG26
+2026-05-03 11:46:14 - INFO - Obteniendo detalle para: 2783-365-TD26
+2026-05-03 11:46:16 - INFO - Obteniendo detalle para: 3871-73-SE26
+2026-05-03 11:46:19 - INFO - Obteniendo detalle para: 4034-183-SE26
+2026-05-03 11:46:20 - INFO - Obteniendo detalle para: 5349-722-TD26
+2026-05-03 11:46:23 - INFO - Éxito: Detalles raw guardados en data/raw/detalleCompra_03052026.json
+2026-05-03 11:46:23 - INFO - Éxito: Detalles normalizados guardados en data/processed/detalleCompra_03052026.csv
+2026-05-03 18:05:14 - INFO - Iniciando proceso de ingesta para la fecha: 03052026
+2026-05-03 18:05:15 - INFO - Éxito: JSON crudo guardado en data/raw/compras_03052026.json
+2026-05-03 18:05:15 - WARNING - No se encontraron datos en el 'Listado' o el ticket de acceso es inválido.
+2026-05-03 18:11:30 - INFO - Iniciando proceso de ingesta para la fecha: 03052026
+2026-05-03 18:11:30 - INFO - Éxito: JSON crudo guardado en data/raw/compras_03052026.json
+2026-05-03 18:11:30 - WARNING - No se encontraron datos en el 'Listado' o el ticket de acceso es inválido.
+2026-05-03 18:12:20 - INFO - Iniciando proceso de ingesta para la fecha: 03052026
+2026-05-03 18:12:20 - INFO - Éxito: JSON crudo guardado en data/raw/compras_03052026.json
+2026-05-03 18:12:20 - WARNING - No se encontraron datos en el 'Listado' o el ticket de acceso es inválido.
+2026-05-03 18:15:05 - INFO - Iniciando proceso de ingesta para la fecha: 03052026
+2026-05-03 18:15:05 - INFO - Éxito: JSON crudo guardado en data/raw/compras_03052026.json
+2026-05-03 18:15:05 - WARNING - No se encontraron datos en el 'Listado' o el ticket de acceso es inválido.
+2026-05-03 18:16:18 - INFO - Iniciando proceso de ingesta para la fecha: 03052026
+2026-05-03 18:16:18 - INFO - Éxito: JSON crudo guardado en data/raw/compras_03052026.json
+2026-05-03 18:16:18 - WARNING - No se encontraron datos en el 'Listado' o el ticket de acceso es inválido.
+2026-05-03 18:17:20 - INFO - Iniciando proceso de ingesta para la fecha: 03052026
+2026-05-03 18:17:21 - INFO - Éxito: JSON crudo guardado en data/raw/compras_03052026.json
+2026-05-03 18:17:21 - WARNING - No se encontraron datos en el 'Listado' o el ticket de acceso es inválido.
+2026-05-03 18:17:34 - INFO - Iniciando proceso de ingesta para la fecha: 03052026
+2026-05-03 18:17:34 - INFO - Éxito: JSON crudo guardado en data/raw/compras_03052026.json
+2026-05-03 18:17:34 - WARNING - No se encontraron datos en el 'Listado' o el ticket de acceso es inválido.
+2026-05-03 18:19:56 - INFO - Iniciando proceso de ingesta para la fecha: 03052026
+2026-05-03 18:19:56 - INFO - Éxito: JSON crudo guardado en data/raw/compras_03052026.json
+2026-05-03 18:19:56 - WARNING - No se encontraron datos en el 'Listado' o el ticket de acceso es inválido.
+2026-05-03 18:20:08 - INFO - Iniciando proceso de ingesta para la fecha: 03052026
+2026-05-03 18:20:08 - INFO - Éxito: JSON crudo guardado en data/raw/compras_03052026.json
+2026-05-03 18:20:08 - WARNING - No se encontraron datos en el 'Listado' o el ticket de acceso es inválido.
+2026-05-03 18:21:11 - INFO - Iniciando proceso de ingesta para la fecha: 03052026
+2026-05-03 18:21:11 - INFO - Éxito: JSON crudo guardado en data/raw/compras_03052026.json
+2026-05-03 18:21:11 - WARNING - No se encontraron datos en el 'Listado' o el ticket de acceso es inválido.
+2026-05-03 18:22:11 - INFO - Iniciando proceso de ingesta para la fecha: 03052026
+2026-05-03 18:22:12 - INFO - Éxito: JSON crudo guardado en data/raw/compras_03052026.json
+2026-05-03 18:22:12 - WARNING - No se encontraron datos en el 'Listado' o el ticket de acceso es inválido.
+2026-05-03 18:23:50 - INFO - Iniciando proceso de ingesta para la fecha: 03052026
+2026-05-03 18:23:50 - INFO - Éxito: JSON crudo guardado en data/raw/compras_03052026.json
+2026-05-03 18:23:50 - WARNING - No se encontraron datos en el 'Listado' o el ticket de acceso es inválido.
+2026-05-03 18:25:18 - INFO - Iniciando proceso de ingesta para la fecha: 03052026
+2026-05-03 18:25:18 - INFO - Éxito: JSON crudo guardado en data/raw/compras_03052026.json
+2026-05-03 18:25:18 - INFO - Éxito: Datos procesados guardados en data/processed/compras_03052026.csv
+2026-05-03 18:25:18 - INFO - Registros procesados: 173
+2026-05-03 18:25:18 - INFO - Obteniendo detalle para: 1002-160-SE26
+2026-05-03 18:25:20 - ERROR - Error al obtener detalle 1002-160-SE26: 429 Client Error: Too Many Requests for url: https://api.mercadopublico.cl/servicios/v1/publico/ordenesdecompra.json?codigo=1002-160-SE26&ticket=B2A714AF-F33B-42F8-B2E4-C46DA8E64C98
+2026-05-03 18:25:20 - INFO - Obteniendo detalle para: 1006-88-SE26
+2026-05-03 18:25:22 - INFO - Obteniendo detalle para: 1023923-404-SE26
+2026-05-03 18:25:24 - INFO - Obteniendo detalle para: 1057430-1127-CM26
+2026-05-03 18:25:26 - INFO - Obteniendo detalle para: 1057431-1316-SE26
+2026-05-03 18:25:28 - INFO - Obteniendo detalle para: 1057492-1627-SE26
+2026-05-03 18:25:30 - INFO - Obteniendo detalle para: 1057492-1628-SE26
+2026-05-03 18:25:32 - INFO - Obteniendo detalle para: 1057496-843-AG26
+2026-05-03 18:25:34 - INFO - Obteniendo detalle para: 1057509-4919-CC26
+2026-05-03 18:25:36 - INFO - Obteniendo detalle para: 1057536-1269-SE26
+2026-05-03 18:25:38 - ERROR - Error al obtener detalle 1057536-1269-SE26: 429 Client Error: Too Many Requests for url: https://api.mercadopublico.cl/servicios/v1/publico/ordenesdecompra.json?codigo=1057536-1269-SE26&ticket=B2A714AF-F33B-42F8-B2E4-C46DA8E64C98
+2026-05-03 18:25:38 - INFO - Éxito: Detalles raw guardados en data/raw/detalleCompra_03052026.json
+2026-05-03 18:25:38 - INFO - Éxito: Detalles normalizados guardados en data/processed/detalleCompra_03052026.csv
+2026-05-03 18:31:09 - INFO - Iniciando proceso de ingesta para la fecha: 03052026
+2026-05-03 18:31:09 - INFO - Éxito: JSON crudo guardado en data/raw/compras_03052026.json
+2026-05-03 18:31:09 - INFO - Éxito: Datos procesados guardados en data/processed/compras_03052026.csv
+2026-05-03 18:31:09 - INFO - Registros procesados: 174
+2026-05-03 18:31:09 - INFO - Obteniendo detalle para: 1002-160-SE26
+2026-05-03 18:31:11 - INFO - Obteniendo detalle para: 1006-88-SE26
+2026-05-03 18:31:13 - INFO - Obteniendo detalle para: 1023923-404-SE26
+2026-05-03 18:31:15 - INFO - Obteniendo detalle para: 1057430-1127-CM26
+2026-05-03 18:31:17 - INFO - Obteniendo detalle para: 1057431-1316-SE26
+2026-05-03 18:31:18 - INFO - Obteniendo detalle para: 1057492-1627-SE26
+2026-05-03 18:31:50 - INFO - ==================================================
+2026-05-03 18:31:50 - INFO - INICIO - Limpieza y transformación de datos
+2026-05-03 18:31:50 - INFO - ==================================================
+2026-05-03 18:31:50 - INFO - Iniciando limpieza: compras_01052026.csv
+2026-05-03 18:31:50 - INFO - Éxito: Archivo limpio guardado en data/processed\compras_01052026_limpio.csv
+2026-05-03 18:31:50 - INFO - Registros finales: 67 (de 67 originales)
+2026-05-03 18:31:50 - INFO - Iniciando limpieza: compras_02052026.csv
+2026-05-03 18:31:50 - INFO - Éxito: Archivo limpio guardado en data/processed\compras_02052026_limpio.csv
+2026-05-03 18:31:50 - INFO - Registros finales: 14 (de 14 originales)
+2026-05-03 18:31:50 - INFO - Iniciando limpieza: compras_03052026.csv
+2026-05-03 18:31:50 - INFO - Éxito: Archivo limpio guardado en data/processed\compras_03052026_limpio.csv
+2026-05-03 18:31:50 - INFO - Registros finales: 174 (de 174 originales)
+2026-05-03 18:31:50 - INFO - Iniciando limpieza: compras_26042026.csv
+2026-05-03 18:31:50 - INFO - Éxito: Archivo limpio guardado en data/processed\compras_26042026_limpio.csv
+2026-05-03 18:31:50 - INFO - Registros finales: 563 (de 563 originales)
+2026-05-03 18:31:50 - INFO - Iniciando limpieza: compras_28042026.csv
+2026-05-03 18:31:50 - INFO - Éxito: Archivo limpio guardado en data/processed\compras_28042026_limpio.csv
+2026-05-03 18:31:50 - INFO - Registros finales: 18888 (de 18888 originales)
+2026-05-03 18:31:50 - INFO - Iniciando limpieza: compras_29042026.csv
+2026-05-03 18:31:51 - INFO - Éxito: Archivo limpio guardado en data/processed\compras_29042026_limpio.csv
+2026-05-03 18:31:51 - INFO - Registros finales: 18895 (de 18895 originales)
+2026-05-03 18:31:51 - INFO - Iniciando limpieza: compras_30042026.csv
+2026-05-03 18:31:51 - INFO - Éxito: Archivo limpio guardado en data/processed\compras_30042026_limpio.csv
+2026-05-03 18:31:51 - INFO - Registros finales: 449 (de 449 originales)
+2026-05-03 18:31:51 - INFO - Limpieza completada — Exitosos: 7 | Fallidos: 0
+2026-05-03 18:31:51 - INFO - ==================================================

@@ -17,18 +17,13 @@ logging.basicConfig(
 
 # ── MAPEO DE ESTADOS ─────────────────────────────────────────
 ESTADOS = {
-    1:  "Enviada",
-    2:  "Aceptada",
-    3:  "Rechazada",
-    4:  "Aceptada",
-    5:  "Recepción Conforme",
+    4:  "Enviada a Proveedor",
+    5:  "En Proceso",
     6:  "Aceptada",
-    7:  "En Proceso de Pago",
-    8:  "Pagada",
-    9:  "Anulada",
-    10: "Vencida",
-    11: "Cerrada",
     12: "Recepción Conforme",
+    13: "Pendiente de Recepcionar",
+    14: "Recepcionada Parcialmente",
+    15: "Recepcion Conforme Incompleta"
 }
 
 # ─────────────────────────────────────────────────────────────

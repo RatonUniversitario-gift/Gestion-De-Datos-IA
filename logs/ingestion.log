@@ -123,3 +123,49 @@
 2026-05-03 11:46:20 - INFO - Obteniendo detalle para: 5349-722-TD26
 2026-05-03 11:46:23 - INFO - Éxito: Detalles raw guardados en data/raw/detalleCompra_03052026.json
 2026-05-03 11:46:23 - INFO - Éxito: Detalles normalizados guardados en data/processed/detalleCompra_03052026.csv
+2026-05-03 19:44:37 - INFO - Iniciando proceso de ingesta para la fecha: 03052026
+2026-05-03 19:44:37 - INFO - Éxito: JSON crudo guardado en data/raw/compras_03052026.json
+2026-05-03 19:44:37 - WARNING - No se encontraron datos en el 'Listado' o el ticket de acceso es inválido.
+2026-05-03 19:45:22 - INFO - Iniciando proceso de ingesta para la fecha: 03052026
+2026-05-03 19:45:23 - INFO - Éxito: JSON crudo guardado en data/raw/compras_03052026.json
+2026-05-03 19:45:23 - INFO - Éxito: Datos procesados guardados en data/processed/compras_03052026.csv
+2026-05-03 19:45:23 - INFO - Registros procesados: 208
+2026-05-03 19:45:23 - INFO - Obteniendo detalle para: 1002-160-SE26
+2026-05-03 19:45:25 - INFO - Obteniendo detalle para: 1006-88-SE26
+2026-05-03 19:45:27 - INFO - Obteniendo detalle para: 1023923-404-SE26
+2026-05-03 19:45:28 - INFO - Obteniendo detalle para: 1057384-353-AG26
+2026-05-03 19:45:30 - INFO - Obteniendo detalle para: 1057430-1127-CM26
+2026-05-03 19:45:32 - INFO - Obteniendo detalle para: 1057431-1316-SE26
+2026-05-03 19:45:34 - INFO - Obteniendo detalle para: 1057492-1627-SE26
+2026-05-03 19:45:36 - INFO - Obteniendo detalle para: 1057492-1628-SE26
+2026-05-03 19:45:38 - INFO - Obteniendo detalle para: 1057496-843-AG26
+2026-05-03 19:45:40 - INFO - Obteniendo detalle para: 1057509-4919-CC26
+2026-05-03 19:45:42 - ERROR - Error al obtener detalle 1057509-4919-CC26: 429 Client Error: Too Many Requests for url: https://api.mercadopublico.cl/servicios/v1/publico/ordenesdecompra.json?codigo=1057509-4919-CC26&ticket=B2A714AF-F33B-42F8-B2E4-C46DA8E64C98
+2026-05-03 19:45:42 - INFO - Éxito: Detalles raw guardados en data/raw/detalleCompra_03052026.json
+2026-05-03 19:45:42 - INFO - Éxito: Detalles normalizados guardados en data/processed/detalleCompra_03052026.csv
+2026-05-03 19:49:54 - INFO - ==================================================
+2026-05-03 19:49:54 - INFO - INICIO - Limpieza y transformación de datos
+2026-05-03 19:49:54 - INFO - ==================================================
+2026-05-03 19:49:54 - INFO - Iniciando limpieza: compras_01052026.csv
+2026-05-03 19:49:54 - INFO - Éxito: Archivo limpio guardado en data/processed\compras_01052026_limpio.csv
+2026-05-03 19:49:54 - INFO - Registros finales: 67 (de 67 originales)
+2026-05-03 19:49:54 - INFO - Iniciando limpieza: compras_02052026.csv
+2026-05-03 19:49:54 - INFO - Éxito: Archivo limpio guardado en data/processed\compras_02052026_limpio.csv
+2026-05-03 19:49:54 - INFO - Registros finales: 14 (de 14 originales)
+2026-05-03 19:49:54 - INFO - Iniciando limpieza: compras_03052026.csv
+2026-05-03 19:49:54 - INFO - Éxito: Archivo limpio guardado en data/processed\compras_03052026_limpio.csv
+2026-05-03 19:49:54 - INFO - Registros finales: 208 (de 208 originales)
+2026-05-03 19:49:54 - INFO - Iniciando limpieza: compras_26042026.csv
+2026-05-03 19:49:54 - INFO - Éxito: Archivo limpio guardado en data/processed\compras_26042026_limpio.csv
+2026-05-03 19:49:54 - INFO - Registros finales: 563 (de 563 originales)
+2026-05-03 19:49:54 - INFO - Iniciando limpieza: compras_28042026.csv
+2026-05-03 19:49:54 - INFO - Éxito: Archivo limpio guardado en data/processed\compras_28042026_limpio.csv
+2026-05-03 19:49:54 - INFO - Registros finales: 18888 (de 18888 originales)
+2026-05-03 19:49:54 - INFO - Iniciando limpieza: compras_29042026.csv
+2026-05-03 19:49:54 - INFO - Éxito: Archivo limpio guardado en data/processed\compras_29042026_limpio.csv
+2026-05-03 19:49:54 - INFO - Registros finales: 18895 (de 18895 originales)
+2026-05-03 19:49:54 - INFO - Iniciando limpieza: compras_30042026.csv
+2026-05-03 19:49:54 - INFO - Éxito: Archivo limpio guardado en data/processed\compras_30042026_limpio.csv
+2026-05-03 19:49:54 - INFO - Registros finales: 449 (de 449 originales)
+2026-05-03 19:49:54 - INFO - Limpieza completada — Exitosos: 7 | Fallidos: 0
+2026-05-03 19:49:54 - INFO - ==================================================

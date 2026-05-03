@@ -5,6 +5,8 @@ import pandas as pd
 import logging
 import time
 from datetime import datetime
+from dotenv import load_dotenv
+load_dotenv()
 
 # --- CONFIGURACIÓN DEL LOGGING ---
 log_path = os.path.join("logs", "ingestion.log")

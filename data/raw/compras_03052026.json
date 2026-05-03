@@ -1,6 +1,6 @@
 {
-    "Cantidad": 174,
-    "FechaCreacion": "2026-05-03T22:31:10.2348275Z",
+    "Cantidad": 178,
+    "FechaCreacion": "2026-05-03T22:40:36.2975037Z",
     "Version": "v1",
     "Listado": [
         {
@@ -242,6 +242,11 @@
             "Codigo": "1536-96-AG26",
             "Nombre": "Orden de Compra generada por invitación a compra ágil: 1536-54-COT26",
             "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1658-1071-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 1658-413-COT26",
+            "CodigoEstado": 5
         },
         {
             "Codigo": "1741-133-AG26",
@@ -519,6 +524,11 @@
             "CodigoEstado": 6
         },
         {
+            "Codigo": "3206-160-SE26",
+            "Nombre": "ORDEN DE COMPRA DESDE 3206-11-L126",
+            "CodigoEstado": 6
+        },
+        {
             "Codigo": "3235-133-AG25",
             "Nombre": "SERVICIO PRESTACIÓN MÉDICA EN ARICA",
             "CodigoEstado": 12
@@ -664,6 +674,11 @@
             "CodigoEstado": 6
         },
         {
+            "Codigo": "3869-186-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 3869-254-COT26",
+            "CodigoEstado": 6
+        },
+        {
             "Codigo": "3871-73-SE26",
             "Nombre": "MANTENCION PREVENTIVA SILLONES DENTALES 52",
             "CodigoEstado": 6
@@ -796,6 +811,11 @@
         {
             "Codigo": "557639-624-AG26",
             "Nombre": "Compra Calefont Cementerio Rancagua     CDP 962",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "557639-676-AG26",
+            "Nombre": "TERMO ELÉCTRICO - COL EDUARDO DE GEYTER CDP 949",
             "CodigoEstado": 6
         },
         {

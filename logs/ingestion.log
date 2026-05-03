@@ -213,3 +213,23 @@
 2026-05-03 18:31:51 - INFO - Registros finales: 449 (de 449 originales)
 2026-05-03 18:31:51 - INFO - Limpieza completada — Exitosos: 7 | Fallidos: 0
 2026-05-03 18:31:51 - INFO - ==================================================
+2026-05-03 18:40:35 - INFO - Iniciando proceso de ingesta para la fecha: 03052026
+2026-05-03 18:40:35 - INFO - Éxito: JSON crudo guardado en data/raw/compras_03052026.json
+2026-05-03 18:40:35 - INFO - Éxito: Datos procesados guardados en data/processed/compras_03052026.csv
+2026-05-03 18:40:35 - INFO - Registros procesados: 178
+2026-05-03 18:40:35 - INFO - Obteniendo detalle para: 1002-160-SE26
+2026-05-03 18:40:37 - INFO - Obteniendo detalle para: 1006-88-SE26
+2026-05-03 18:40:39 - INFO - Obteniendo detalle para: 1023923-404-SE26
+2026-05-03 18:40:41 - INFO - Obteniendo detalle para: 1057430-1127-CM26
+2026-05-03 18:40:43 - ERROR - Error al obtener detalle 1057430-1127-CM26: 429 Client Error: Too Many Requests for url: https://api.mercadopublico.cl/servicios/v1/publico/ordenesdecompra.json?codigo=1057430-1127-CM26&ticket=B2A714AF-F33B-42F8-B2E4-C46DA8E64C98
+2026-05-03 18:40:43 - INFO - Obteniendo detalle para: 1057431-1316-SE26
+2026-05-03 18:40:44 - INFO - Obteniendo detalle para: 1057492-1627-SE26
+2026-05-03 18:40:46 - INFO - Obteniendo detalle para: 1057492-1628-SE26
+2026-05-03 18:40:51 - INFO - ==================================================
+2026-05-03 18:40:51 - INFO - INICIO - Limpieza y transformación de datos
+2026-05-03 18:40:51 - INFO - ==================================================
+2026-05-03 18:40:51 - INFO - Iniciando limpieza: compras_03052026.csv
+2026-05-03 18:40:51 - INFO - Éxito: Archivo limpio guardado en data/processed\compras_03052026_limpio.csv
+2026-05-03 18:40:51 - INFO - Registros finales: 178 (de 178 originales)
+2026-05-03 18:40:51 - INFO - Limpieza completada — Exitosos: 1 | Fallidos: 0
+2026-05-03 18:40:51 - INFO - ==================================================

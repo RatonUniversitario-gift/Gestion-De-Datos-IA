@@ -1,0 +1,42 @@
+{
+    "Cantidad": 7,
+    "FechaCreacion": "2026-05-03T11:46:08.2814916Z",
+    "Version": "v1",
+    "Listado": [
+        {
+            "Codigo": "1002-160-SE26",
+            "Nombre": "SERVICIO DESINSECTACION, SANITIZACION DEPENDENCIAS",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1173933-17-AG26",
+            "Nombre": "Servicio de diseño y producción de caja del descubrimiento, que contenga encapsulados en resina y distintos materiales para el desarrollo de talleres y actividades con temática artrópodos, en dependencias del Museo de Historia Natural de Valparaíso.",
+            "CodigoEstado": 5
+        },
+        {
+            "Codigo": "2776-273-AG26",
+            "Nombre": "S/P 173810, DIDECO, CONTRATACION SERVICIO DE CAPACITACION TEORICO  - PRACTICO EN TERRENO DE GANADERIA REGENERATIVA PARA 25 USUARIOS DE PRODESAL, EN RUBRO BOVINO , SEGUN LO ESTABLECIDO EN LOS TERMINOS DE REQUERIMIENTOS DE LA COMPRA AGIL ID: 277-312-COT26.",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "2783-365-TD26",
+            "Nombre": "Orden de Compra generada por Trato Directo ID 2783-264-FTD26",
+            "CodigoEstado": 5
+        },
+        {
+            "Codigo": "3871-73-SE26",
+            "Nombre": "MANTENCION PREVENTIVA SILLONES DENTALES 52",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "4034-183-SE26",
+            "Nombre": "AUMENTO DE OBRA DEL PROYECTO DE CONSTRUCCIÓN DE CIERRE DE CUBIERTA DE MULTICANCHA DE ESCUELA F-819 - FONDOS MYR",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "5349-722-TD26",
+            "Nombre": "Orden de Compra generada por Trato Directo ID 5349-123-FTD26",
+            "CodigoEstado": 6
+        }
+    ]
+}

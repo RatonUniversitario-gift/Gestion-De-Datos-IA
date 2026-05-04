@@ -271,3 +271,43 @@
 2026-05-03 21:40:08 - INFO - Registros finales: 47 (de 47 originales)
 2026-05-03 21:40:08 - INFO - Limpieza completada — Exitosos: 4 | Fallidos: 1
 2026-05-03 21:40:08 - INFO - ==================================================
+2026-05-04 02:39:03 - INFO - Iniciando proceso de ingesta para la fecha: 04052026
+2026-05-04 02:39:04 - INFO - Éxito: JSON crudo guardado en data/raw/compras_04052026.json
+2026-05-04 02:39:04 - INFO - Éxito: Datos procesados guardados en data/processed/compras/compras_04052026.csv
+2026-05-04 02:39:04 - INFO - Registros procesados: 337
+2026-05-04 02:39:04 - INFO - Obteniendo detalle para: 1002-160-SE26
+2026-05-04 02:39:06 - INFO - Obteniendo detalle para: 1044-18-CM26
+2026-05-04 02:39:09 - INFO - Obteniendo detalle para: 1057536-1233-SE26
+2026-05-04 02:39:11 - INFO - Obteniendo detalle para: 1057551-249-SE25
+2026-05-04 02:39:13 - INFO - Obteniendo detalle para: 1057551-592-SE25
+2026-05-04 02:39:16 - INFO - Obteniendo detalle para: 1065268-137-SE26
+2026-05-04 02:39:18 - INFO - Obteniendo detalle para: 1079694-66-SE26
+2026-05-04 02:39:20 - INFO - Obteniendo detalle para: 1244685-14-AG26
+2026-05-04 02:39:22 - INFO - Obteniendo detalle para: 1260057-476-CM26
+2026-05-04 02:39:24 - INFO - Obteniendo detalle para: 1267885-393-AG26
+2026-05-04 02:39:26 - INFO - Éxito: Detalles raw guardados en data/raw/detalleCompra_04052026.json
+2026-05-04 02:39:26 - INFO - Éxito: Detalles normalizados guardados en data/processed/detalle/detalleCompra_04052026.csv
+2026-05-04 02:39:26 - INFO - ==================================================
+2026-05-04 02:39:26 - INFO - INICIO - Limpieza y transformación de datos
+2026-05-04 02:39:26 - INFO - ==================================================
+2026-05-04 02:39:26 - INFO - Iniciando limpieza: detalleCompra_02052026.csv
+2026-05-04 02:39:26 - INFO - Éxito: Archivo limpio guardado en data/processed/limpio/detalleCompra_02052026_limpio.csv
+2026-05-04 02:39:26 - INFO - Registros finales: 12 (de 12 originales)
+2026-05-04 02:39:26 - INFO - Iniciando limpieza: detalleCompra_30042026.csv
+2026-05-04 02:39:26 - INFO - Éxito: Archivo limpio guardado en data/processed/limpio/detalleCompra_30042026_limpio.csv
+2026-05-04 02:39:26 - INFO - Registros finales: 47 (de 47 originales)
+2026-05-04 02:39:26 - INFO - Iniciando limpieza: detalleCompra_04052026.csv
+2026-05-04 02:39:26 - INFO - Duplicados eliminados: 4
+2026-05-04 02:39:26 - INFO - Éxito: Archivo limpio guardado en data/processed/limpio/detalleCompra_04052026_limpio.csv
+2026-05-04 02:39:26 - INFO - Registros finales: 24 (de 28 originales)
+2026-05-04 02:39:26 - INFO - Iniciando limpieza: detalleCompra_29042026.csv
+2026-05-04 02:39:26 - INFO - Duplicados eliminados: 18
+2026-05-04 02:39:26 - INFO - Éxito: Archivo limpio guardado en data/processed/limpio/detalleCompra_29042026_limpio.csv
+2026-05-04 02:39:26 - INFO - Registros finales: 14 (de 32 originales)
+2026-05-04 02:39:26 - INFO - Iniciando limpieza: detalleCompra_01052026.csv
+2026-05-04 02:39:26 - ERROR - Error al limpiar detalleCompra_01052026.csv: ['Codigo', 'Nombre', 'PrecioNeto', 'OrdenTotal']
+2026-05-04 02:39:26 - INFO - Iniciando limpieza: detalleCompra_03052026.csv
+2026-05-04 02:39:27 - INFO - Éxito: Archivo limpio guardado en data/processed/limpio/detalleCompra_03052026_limpio.csv
+2026-05-04 02:39:27 - INFO - Registros finales: 9 (de 9 originales)
+2026-05-04 02:39:27 - INFO - Limpieza completada — Exitosos: 5 | Fallidos: 1
+2026-05-04 02:39:27 - INFO - ==================================================

@@ -29,6 +29,10 @@ jobs:
         env:
           CHILECOMPRA_TICKET: ${{ secrets.CHILECOMPRA_TICKET }}
         run: python scripts/ingestion.py
+      
+
+      - name: Ejecutar limpieza
+        run: python scripts/limpieza.py
 
       - name: Guardar resultados en el repositorio
         run: |

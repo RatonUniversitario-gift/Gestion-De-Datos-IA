@@ -47,7 +47,7 @@ def consultar_chilecompra():
             df_final = df[['Codigo', 'Nombre', 'CodigoEstado']].copy()
             
             # Guardar Processed Data (CSV)
-            output_path = f"data/processed/compras_{fecha}.csv"
+            output_path = f"data/processed/compras/compras_{fecha}.csv"
             df_final.to_csv(output_path, index=False, encoding="utf-8-sig")
             
             logging.info(f"Éxito: Datos procesados guardados en {output_path}")
@@ -162,7 +162,7 @@ def extraerDetalles(codigos):
     # Guardar processed CSV
     if filas_csv:
         df_detalles = pd.DataFrame(filas_csv)
-        csv_path = f"data/processed/detalleCompra_{fecha}.csv"
+        csv_path = f"data/processed/detalle/detalleCompra_{fecha}.csv"
         df_detalles.to_csv(csv_path, index=False, encoding="utf-8-sig")
         logging.info(f"Éxito: Detalles normalizados guardados en {csv_path}")
 

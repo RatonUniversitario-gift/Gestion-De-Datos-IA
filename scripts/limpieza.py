@@ -51,7 +51,7 @@ def limpiar_compras(ruta_csv: str) -> bool:
         total_inicial = len(df)
 
         # 1. Eliminar filas con cualquier valor nulo
-        df = df.dropna()
+        df = df.dropna(subset=["Codigo", "Nombre", "PrecioNeto", "OrdenTotal"])
         nulos = total_inicial - len(df)
         if nulos:
             logging.info(f"Filas con nulos eliminadas: {nulos}")
@@ -86,12 +86,15 @@ def limpiar_compras(ruta_csv: str) -> bool:
         df["FechaProcesamiento"] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
         # ── Ordenar columnas ──────────────────────────────────
-        df = df[["Codigo", "Nombre", "CodigoEstado", "EstadoDescripcion", "FechaProcesamiento"]]
+        df = df[["Codigo", "Nombre", "CodigoEstado", "EstadoDescripcion",
+         "TipoMoneda", "OrdenTotalNeto", "OrdenTotal",
+         "Producto", "Cantidad", "PrecioNeto", "ItemTotal",
+         "FechaCreacion",  "FechaProcesamiento"]]
         df = df.sort_values("Codigo").reset_index(drop=True)
 
         # ── Guardar con sufijo _limpio en la misma carpeta ───
         nombre_base = os.path.splitext(nombre_archivo)[0]
-        ruta_salida = os.path.join(os.path.dirname(ruta_csv), f"{nombre_base}_limpio.csv")
+        ruta_salida = os.path.join("data/processed/limpio", f"{nombre_base}_limpio.csv")
         df.to_csv(ruta_salida, index=False, encoding="utf-8-sig")
 
         logging.info(f"Éxito: Archivo limpio guardado en {ruta_salida}")
@@ -115,7 +118,7 @@ def ejecutar_limpieza():
     logging.info("=" * 50)
 
     archivos = [
-        f for f in glob.glob("data/processed/compras_*.csv")
+        f for f in glob.glob("data/processed/detalle/detalleCompra_*.csv")
         if "_limpio" not in f
     ]
 

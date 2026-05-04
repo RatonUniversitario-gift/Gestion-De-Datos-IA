@@ -16,6 +16,9 @@ El repositorio sigue una arquitectura estándar para proyectos de datos:
 ├── .github/workflows/   # Configuraciones de CI/CD (Automatización de ingesta)
 ├── data/
 │   ├── processed/       # Datos limpios y estructurados listos para usar (.csv)
+│       ├── compras/     # CSV con listado general de órdenes
+│       ├── detalle/     # CSV con detalle enriquecido (precios, productos)
+│       └── limpio/      # CSV procesados y normalizados listos para IA  
 │   └── raw/             # Datos crudos extraídos originalmente (.json)
 ├── docs/                # Documentación técnica del proyecto
 ├── logs/                # Registro de eventos y errores de la ejecución (ingestion.log)
@@ -41,11 +44,15 @@ Si deseas ejecutar este pipeline en tu propio entorno local, sigue estos pasos:
     pip install -r requirements.txt
     ```
 
-3.  Ejecuta el script de ingesta:
-    ```bash
-    python scripts/ingestion.py
-    ```
+3. Configura tu ticket en un archivo .env en la raíz:
+   CHILECOMPRA_TICKET=tu_ticket_aqui
 
+4. Ejecuta la ingesta:
+   python scripts/ingestion.py
+
+5. Ejecuta la limpieza:
+   python scripts/limpieza.py
+   
 El script leerá la configuración, extraerá los datos, registrará el proceso en `logs/ingestion.log` y guardará el resultado final en la carpeta `data/processed/`.
 
 Documentación Adicional

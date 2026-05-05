@@ -1,0 +1,1742 @@
+{
+    "Cantidad": 347,
+    "FechaCreacion": "2026-05-05T12:05:02.8369822Z",
+    "Version": "v1",
+    "Listado": [
+        {
+            "Codigo": "1000813-144-AG26",
+            "Nombre": "LP_ADQUISICION DE OTROS MATATERIALES DE USO Y CONSUMO PARA SER USADO EN LA MANIPULACION DE ALIMENTOS DEL RANCHO TROPA DE LOS SLCs DE LA 4TA. BRIACO \"CHORRILLOS\" Orden de Compra generada por invitación a compra ágil: 1000813-142-COT26.",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1000813-145-AG26",
+            "Nombre": "LP_ADQUISICION DE MATERIALES Y UTILES DE ASEO PARA SER USADO EN LAS CUADRAS, RANCHO TROPA Y LAVANDERIA DE LOS SLCs DE LA 4TA. BRIACO \"CHORRILLOS\". Orden de Compra generada por invitación a compra águil:1000813-144-cot26.",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1000813-78-AG26",
+            "Nombre": "LP_ ADQUISICION DE INSUMOS COMPUTACIONALES PARA EL SICE DE LA 4TA BRIACO CHORRILLOS  compra ágil: 1000813-64-COT26",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1006-90-SE26",
+            "Nombre": "Servicio de Obras Menores - D.V.Reg. de Magallanes",
+            "CodigoEstado": 4
+        },
+        {
+            "Codigo": "1021609-202-SE26",
+            "Nombre": "FRUTAS Y VERDURAS CENTRAL ALIMENTACION MAYO/JUNIO",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1028897-268-AG26",
+            "Nombre": "SP 178 Colaciones actividad extraescolar-POSTA LEFTUAYIÑ COSTA ARAUCANÍA MEW 2026,EXTRAESCOLAR,FSA",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1028897-299-AG26",
+            "Nombre": "SP 235 COMPRA DE ALIMENTOS Y COLACIONES PARA ESC TRANAPUENTE RBD 6504 /SEP /NVG ",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1028897-328-AG26",
+            "Nombre": "SP 268 COMPRA DE ALIMENTOS ESCUELA PUBLICA SANTA MARIA DE BOROA DEL SLEPCA RBD 6633 SEP JCAT",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1028897-331-AG26",
+            "Nombre": "SP 269 Adq. alimentación para actividad juegos ancestrales del Complejo Educacional Dario Salas; RBD: 6500; SEP;CSD",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1028897-336-AG26",
+            "Nombre": "SP 266 Adquisición de colaciones para Escuela Alejandro Gorostiaga RBD: 6587/SEP/KLT",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1049-805-AG26",
+            "Nombre": "OC 56529 DESCARGA ACEITE SUCIO - B/C ABATE MOLINA - VALPARAÍSO",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1051765-335-CM26",
+            "Nombre": "C.E.T San Carlos, Frutas y Verduras Servicio Alimentacion",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1057049-14634-SE26",
+            "Nombre": "MCM - RES. EX. 1666/24 INT. 816 - Convenio Colaboración Biopsia Renal - Memo 96",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1057049-14636-SE26",
+            "Nombre": "MCM - RES. EX. 1666/24 INT. 816 - Convenio Colaboración Biopsia Renal - Memo 97",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1057389-2316-AG26",
+            "Nombre": "LIMPIADOR DESINFECTANTE EN SPRAY PARA TRANSDUCTORES ECOGRAFICOS BT 250 ML",
+            "CodigoEstado": 4
+        },
+        {
+            "Codigo": "1057389-2317-AG26",
+            "Nombre": "COLUTORIO DE CLORHEXIDINA AL 0.12% 120 ML",
+            "CodigoEstado": 4
+        },
+        {
+            "Codigo": "1057389-2318-AG26",
+            "Nombre": "GASA PABELLON 5 X 70 CM 4 PLIEGUES X 5 CAPAS EN ACORDEON GASA HIDOFILA ESTERIL (RADIOPACA)",
+            "CodigoEstado": 4
+        },
+        {
+            "Codigo": "1057402-4659-SE26",
+            "Nombre": "(5076) SERVICIO DE 1 PET CT / H. FRIAS C. / MEMO 46",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1057430-1174-SE26",
+            "Nombre": "Servicio de Movilización Abril  2026\t",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1057430-1176-SE26",
+            "Nombre": "Servicio Móvil para Traslado de Oxigeno y servicio",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1057472-8024-SE26",
+            "Nombre": "KIT PROTESIS DIGESTIVAS",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1057491-2711-AG26",
+            "Nombre": "JCO/NUTRICIONALES/PACIENTES/MAYO 2026",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1057492-1688-SE26",
+            "Nombre": "SERVICIO LINFOCINTIGRAFÍA PREOPERATORIA LINFONODO",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1057501-3893-CM26",
+            "Nombre": "INSUMOS CONVENIO MARCO",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1057503-2249-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 1057503-1234-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1057509-4989-SE26",
+            "Nombre": "Campaña Invierno 2026 (Conv, PRM)",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1057511-582-SE26",
+            "Nombre": "FRUTAS Y VERDURAS SEMANA 27 DE ABRIL 26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1057534-522-AG26",
+            "Nombre": "Insumos para Urgencia ",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1057536-1282-AG26",
+            "Nombre": "ROLLOS PLASTICOS BURBUJA PARA TRASLADO DE HEMOCOMPONENTES CSA",
+            "CodigoEstado": 4
+        },
+        {
+            "Codigo": "1057544-27365-SE25",
+            "Nombre": "COMPRA SUMINISTROS CARNICOS ",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1057544-9081-SE26",
+            "Nombre": "PROGRAMA INSUMOS CLINICOS MAYO",
+            "CodigoEstado": 4
+        },
+        {
+            "Codigo": "1057547-5038-SE26",
+            "Nombre": "ORDEN DE COMPRA DESDE 1057547-18-LR21",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1057547-5996-SE26",
+            "Nombre": "ORDEN DE COMPRA DESDE 1057547-18-LR21",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1058044-591-SE26",
+            "Nombre": "Fármacos Stock Mayo 2026",
+            "CodigoEstado": 4
+        },
+        {
+            "Codigo": "1058078-1396-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 1058078-339-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1058090-558-AG26",
+            "Nombre": "1058090-91-COT26 PREPARADOS MAGISTRALES",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1058132-15172-AG25",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 1058132-358-COT25",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1058134-753-SE26",
+            "Nombre": "ORDEN DE COMPRA DESDE 1058134-102-LE24/MARZO Y MAYO 2026.",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1058134-758-SE26",
+            "Nombre": "ORDEN DE COMPRA DESDE 1058134-109-LR24/ABRIL 2026.",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1058141-132-AG26",
+            "Nombre": "(APM) PEDIDO FARMACIA FEBRERO COMPLEJO ADEK CON MINERALES CM ID: 1058141-26-COT26",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1058141-595-TD26",
+            "Nombre": "Orden de Compra generada por Trato Directo ID 1058141-11-FTD26",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1058141-665-AG26",
+            "Nombre": "(APM) PEDIDO SUEROS BODEGA FARMACIA SODIO CLORURO O,9 % 1000 mL ID: 1058141-564-COT26",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1058141-671-AG26",
+            "Nombre": "(APM) PEDIDO FARMACIA MAYO ID: 1058141-556-COT26",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1062448-1442-AG26",
+            "Nombre": "COMPRA DE SILLAS INFANTILES Prog. AIDIA: 1062448-117-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1062448-1447-CC26",
+            "Nombre": "SERVICIO DE SALA CUNA",
+            "CodigoEstado": 4
+        },
+        {
+            "Codigo": "1062448-1448-CC26",
+            "Nombre": "RETIRO DE RESIDUOS PELIGROSOS MES DE ABRIL",
+            "CodigoEstado": 4
+        },
+        {
+            "Codigo": "1063535-6099-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 1063535-184-COT26",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1063535-6138-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 1063535-190-COT26",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1063535-6150-SE26",
+            "Nombre": "FARMACOS ABRIL",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1063535-6152-SE26",
+            "Nombre": "FARMACOS ABRIL",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1063535-6172-SE26",
+            "Nombre": "FARMACOS ABRIL",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1063535-6178-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 1063535-195-COT26",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1063535-6201-SE26",
+            "Nombre": "FARMACOS ABRIL",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1063535-6207-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 1063535-196-COT26",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1063538-3430-CM26",
+            "Nombre": "Orden de Compra: 1063538-3430-CM26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1069417-433-AG26",
+            "Nombre": " Adquisición de útiles Quirúrgicos para Unidad de Dental del CESFAM Quinchamalí, dependiente de la Dirección de Salud Municipal",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1075339-366-AG26",
+            "Nombre": " khr Compra de Fármacos (POLIETILENGLICOL 3350 BOLSA 20 GRS.) Pedido Mayo 2026 desde compra ágil: 1075339-297-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1075963-2819-SE26",
+            "Nombre": "ORDEN DE COMPRA DESDE 1075963-492-LE25 SR 221607",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1079516-276-SE26",
+            "Nombre": "MANTENCIÓN 20.000 KM HYUNDAI RP-6864 3° LOS ANDES LIC. 1079516-24-LE25",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1079516-365-SE26",
+            "Nombre": "MANTENCIÓN 60.000 KM HYUNDAI SANTA FE Z-10056 T. PUCHUNCAVI LIC. 1079516-24-LE25",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1079516-367-AG26",
+            "Nombre": "SERVICIO DE  MANTENCION POR KILOMETRAJE DE 15 VEHÍCULOS TOYOTA,  DE CARGO DE LA ZONA DE CARABINEROS VALPARAISO, EN TALLERES DE CONCECIONARIO DE LA MARCA CON REPUESTOS ORIGINALES // compra ágil: 1079516-84-COT26",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1079576-313-CM26",
+            "Nombre": "ADQUISICIÓN DE ABARROTES PARA EL CASINO DE LA 1RA. COMISARÍA CONCEPCION SEGUN D/E 251893267.",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1079576-316-CM26",
+            "Nombre": "ADQUISICIÓN DE FRUTAS Y VERDURAS  PARA EL CASINO DE LA 1RA. COMISARÍA CONCEPCION SEGUN D/E 252147892.",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1079713-204-CM26",
+            "Nombre": "ADQ. CARNE Y POLLO COMISION RANCHO 18° COM. ÑUÑOA",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1108338-44-SE26",
+            "Nombre": "ORDEN DE COMPRA DESDE 1108338-8-LE26",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1110404-266-AG26",
+            "Nombre": "CAP-PUNTUAL-SOL.2026-0422-SUBV GRAL-ADQUISICIÓN DE REPUESTOS PARA MANTENCIÓN DE FLOTA VEHICULAR, PERTENECIENTES A SLEP DE CHINCHORRO, ARICA Y PARINACOTA.-Orden de Compra generada por invitación a compra ágil: 1110404-154-COT26",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1110404-272-AG26",
+            "Nombre": "MBS, PUNTUAL, SOL-2026-0446, SUBVENCION SEP, provisión de Implementos Deportivos para establecimiento Liceo Antonio Varas de la Barra, perteneciente al SLEP Chinchorro de Arica, desde Compra Ágil 1110404-158-COT26",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1143-57-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 1143-19-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1147293-54-AG26",
+            "Nombre": "SERVICIO ALIMENTACIÓN ",
+            "CodigoEstado": 9
+        },
+        {
+            "Codigo": "1159-89-TD26",
+            "Nombre": "Orden de Compra generada por Trato Directo ID 1159-56-FTD26",
+            "CodigoEstado": 4
+        },
+        {
+            "Codigo": "1173409-16-CM26",
+            "Nombre": "CET ANGOL ADQUISICION DE MANTECA PARA LA PANADERIA DEL CENTRO DE EDUCACION Y TRABAJO DE ANGOL - GENDARMERIA DE CHILE REGION DE LA ARAUCANIA",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1173459-4-TD26",
+            "Nombre": "Orden de Compra generada por Trato Directo ID 1173459-1-FTD26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1185-51-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 1185-8-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1185-52-SE26",
+            "Nombre": "JARDIN INFANTIL Y SALA CUNA",
+            "CodigoEstado": 4
+        },
+        {
+            "Codigo": "1185-53-SE26",
+            "Nombre": "VESTUARIO SEGURIDAD",
+            "CodigoEstado": 4
+        },
+        {
+            "Codigo": "1185-55-SE26",
+            "Nombre": "ARRIENDO PREDIO RURAL",
+            "CodigoEstado": 4
+        },
+        {
+            "Codigo": "1199-99-CM26",
+            "Nombre": "Orden de Compra: 1199-99-CM26",
+            "CodigoEstado": 4
+        },
+        {
+            "Codigo": "1208102-17-AG26",
+            "Nombre": "P01 MATERIALES DE ASEO PARA DEPENDENCIAS DIRECCIÓN REGIONAL DEL MAULE ID: 1208102-13-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1208985-28-SE26",
+            "Nombre": "RFAT_SERVICIO SUMINISTRO INSUMOS MENORES - ORDEN DE COMPRA DESDE LICITACION 1208985-1-LP26",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1214102-830-AG26",
+            "Nombre": "RML/SP22 ORQUESTA JUVENIL - CUERDAS DE INSTRUMENTOS, ETC 1214102-441-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1232837-97-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 1232837-55-COT26",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1233600-269-SE26",
+            "Nombre": "1233600-19-L126  ADQUISICIÓN DE DISPOSITIVOS MEDIDORES DE TEMPERATURA Y HUMEDAD DIGITALES",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1233615-558-SE26",
+            "Nombre": "JGS[SOL-2026-00226] Materiales de enseñanza/LICEO BICENTENARIO AUSTRAL LORD COCHRANE",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1233615-631-SE26",
+            "Nombre": "DMH/SOL 00735- Escuela \"Carlos Condell\"/Materiales de Enseñanza/convenio de suministro 1233615-15-LP26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1233615-674-SE26",
+            "Nombre": "DMH/SOL 00760/LICEO MAÑIHUALES/MATERIALES DE ASEO/CONVENIO DE SUMINISTRO 1233615-11-LP26",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1233615-691-SE26",
+            "Nombre": "PHA/SOL 798/INSUMOS ENSEÑANZA HISTORIA/LICEO ALTOS DEL MACKAY/CONVENIO SUMINISTRO 1233615-15-LP26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1233615-705-SE26",
+            "Nombre": "JGS/SOL 332/PELLET/Liceo Josefina Aguirre Montenegro. /CONVENIO DE SUMINISTRO PELLET.",
+            "CodigoEstado": 4
+        },
+        {
+            "Codigo": "1233616-877-SE26",
+            "Nombre": "IMPLEMENTOS MUSICALES CEIA CLAUDIO MATTE SCI N°1140 PROGRAMA 02",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1233619-257-SE26",
+            "Nombre": "SERVICIO DE TRANSPORTE ESCOLAR LÍNEA N°65 SECTOR MORRO- CARRERAS CORTAS - CHANCO",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1233833-59-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 1233833-42-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1237328-182-SE26",
+            "Nombre": "ORDEN DE COMPRA DESDE 1237328-86-LP25",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1237328-183-SE26",
+            "Nombre": "ORDEN DE COMPRA DESDE 1237328-86-LP25",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1237328-184-SE26",
+            "Nombre": "ORDEN DE COMPRA DESDE 1237328-86-LP25",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1240098-133-SE26",
+            "Nombre": "1240098-13-LP25, FI 77 INGENIERIA CLINICA",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1261592-375-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 1261592-39-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1274188-109-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 1274188-72-COT26 ADQUISICION DE INSTRUMENTOS PARA BANDA ESCOLAR DEL ESTABLECIMIENTO LICEO A-131 SECCION BASICA RBD-10638, SOLICITUD N°66",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1274667-17-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 1274667-3-COT26",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1274667-735-SE25",
+            "Nombre": "ORDEN DE COMPRA DESDE 1274667-27-LE25",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1274667-736-SE25",
+            "Nombre": "ORDEN DE COMPRA DESDE 1274667-27-LE25",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1274667-737-SE25",
+            "Nombre": "ORDEN DE COMPRA DESDE 1274667-27-LE25",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1274667-79-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 1274667-67-COT26",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1282238-22-CM26",
+            "Nombre": "RECARGA GAS A GRANEL CENTRO CULTURAL",
+            "CodigoEstado": 4
+        },
+        {
+            "Codigo": "1335445-18-AG26",
+            "Nombre": "ADQUISICION DE ESCRITORIOS DE OFICINA PARA  SERPAT DR BIOBIO 1335445-19-COT26",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1343645-55-AG26",
+            "Nombre": "Diferentes Maquinas y Equipos ",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1346283-106-CM26",
+            "Nombre": "ADQUISICION DE ALIMENTOS PARA EL CENTRO IP-IR COPIAPO",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1350129-1-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 1350129-3-COT26",
+            "CodigoEstado": 4
+        },
+        {
+            "Codigo": "1366597-896-TD26",
+            "Nombre": "Orden de Compra generada por Trato Directo ID 1366597-308-FTD26",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1366597-898-TD26",
+            "Nombre": "Orden de Compra generada por Trato Directo ID 1366597-309-FTD26",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1366597-908-TD26",
+            "Nombre": "Orden de Compra generada por Trato Directo ID 1366597-323-FTD26",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1366597-910-TD26",
+            "Nombre": "Orden de Compra generada por Trato Directo ID 1366597-325-FTD26",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1366597-915-TD26",
+            "Nombre": "Orden de Compra generada por Trato Directo ID 1366597-332-FTD26",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1366597-951-TD26",
+            "Nombre": "Orden de Compra generada por Trato Directo ID 1366597-284-FTD26",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1366597-957-TD26",
+            "Nombre": "Orden de Compra generada por Trato Directo ID 1366597-292-FTD26",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1366597-960-TD26",
+            "Nombre": "Orden de Compra generada por Trato Directo ID 1366597-293-FTD26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1366597-977-TD26",
+            "Nombre": "Orden de Compra generada por Trato Directo ID 1366597-305-FTD26",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1366597-983-TD26",
+            "Nombre": "Orden de Compra generada por Trato Directo ID 1366597-254-FTD26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1366597-988-TD26",
+            "Nombre": "Orden de Compra generada por Trato Directo ID 1366597-271-FTD26",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1375756-69-AG26",
+            "Nombre": "SOFTWARE PARA CONCILIACIONES BANCARIAS",
+            "CodigoEstado": 5
+        },
+        {
+            "Codigo": "1380-5715-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 1380-2291-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1389584-88-SE26",
+            "Nombre": "GENERAL - DIRECCION DE EDUCACION - CDP 76/2026 - 7",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1393495-200-AG26",
+            "Nombre": " SC-49143/9869-8/SUBV. GENERAL/ADQ, LIBROS COMPLEMENTARIOS - LECTURA/ESF",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1422824-1136-CM26",
+            "Nombre": "(LER) PAN UCA MES DE MAYO",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1422824-1150-SE26",
+            "Nombre": "(LER) CARNES UCA MES DE MAYO",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1422824-1205-CM26",
+            "Nombre": "(LER) DURAZNOS EN TROCITOS UCA MAYO",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1422824-1262-SE26",
+            "Nombre": "(RMM)1057554-71-LQ23 TEST REPORTADOS UMT  AGOSTO 2025",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1422824-1263-SE26",
+            "Nombre": "(RMM)1057554-71-LQ23 TEST REPORTADOS UMT SEPTIEMBRE 2025",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1422824-433-AG26",
+            "Nombre": " (LER) 1422824-271-COT26 ETIQUETAS 3X5 TERMICA STOCK ANUAL",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1422824-787-CM26",
+            "Nombre": "(LER) PAN UCA ABRIL",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1422824-877-CM26",
+            "Nombre": "(LER) COMPOTAS ABRIL UCA",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1422824-885-CM26",
+            "Nombre": "(LER) MANJAR ABRIL UCA",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1422824-917-CM26",
+            "Nombre": "(LER) MOPA REDONDA Y GUANTES ASEO TALLA L STOCK ANUAL",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1422825-401-CM26",
+            "Nombre": "(LER) ARCHIVADOR DE PALANCA STOCK ANUAL BODEGA ECONOMATO",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1428662-52-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 1428662-45-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1430707-1756-SE26",
+            "Nombre": "FONENDOSCOPIO STOCK MAYO 2026",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1430707-1759-AG26",
+            "Nombre": "FIJADOR CITOLOGICO STOCK MAYO 2026",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1432083-913-AG26",
+            "Nombre": " EDG, VARIOS RBDS, GENERAL, TRANSPORTE PARA OPERATIVO MEDICO, PANGUIPULLI, 05-05-2026",
+            "CodigoEstado": 4
+        },
+        {
+            "Codigo": "1446646-10-CM26",
+            "Nombre": "MATERIAL DE ASEO PARA SALA CUNA Y JARDIN SEMILLITA DE ILUSION ",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1477-115-SE26",
+            "Nombre": "mant. de 2 ascensores mes AB26.27/36",
+            "CodigoEstado": 4
+        },
+        {
+            "Codigo": "1480143-6-AG26",
+            "Nombre": "PTR N°285/1480143-6-COT26/*SUMINISTRO* PERFORADORA METALICA DE ALTO PODER PARA 300 HOJAS, DE 2 ORIFICIOS.",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1503-33-SE26",
+            "Nombre": "ORDEN DE COMPRA DESDE 1503-13-LE26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1510-133-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 1510-55-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1514-1811-SE26",
+            "Nombre": "ORDEN DE COMPRA DESDE 1514-169-LE25",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1532-424-CM26",
+            "Nombre": "REQ 276 - Orden de Compra: 1532-424-CM26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1540-1065-AG26",
+            "Nombre": "1540-609-COT26 PUNZONES PARA BIOPSIA. STOCK 3 MESES. MAYO 2026. FARMACIA",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1540-1069-AG26",
+            "Nombre": "1540-606-COT26 GUANTES DE LATEX ESTERIL. STOCK 3 MESES. MAYO 2026. FARMACIA",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1552-55-SE26",
+            "Nombre": "TRATAMIENTO AMBULATORIO INTENSIVO PARA ADOLESCENTE",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1554-758-SE26",
+            "Nombre": "ADQUISIÓN DE EXÁMENES PET CT ENERO-FEBREROO/26",
+            "CodigoEstado": 4
+        },
+        {
+            "Codigo": "1554-766-TD26",
+            "Nombre": "Orden de Compra generada por Trato Directo ID 1554-87-FTD26",
+            "CodigoEstado": 4
+        },
+        {
+            "Codigo": "1554-767-TD26",
+            "Nombre": "Orden de Compra generada por Trato Directo ID 1554-86-FTD26",
+            "CodigoEstado": 4
+        },
+        {
+            "Codigo": "1554-770-TD26",
+            "Nombre": "Orden de Compra generada por Trato Directo ID 1554-94-FTD26",
+            "CodigoEstado": 4
+        },
+        {
+            "Codigo": "1641-11843-SE26",
+            "Nombre": "amv/ CALENDARIO MES ABRIL ORDEN DE COMPRA DESD",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1641-11959-AG26",
+            "Nombre": " amv/ 02-001-003-039 HOJA DESVELLADORA DESECHABLE Orden de Compra generada por invitación a compra ágil: 1641-1656-COT26",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1641-13011-AG26",
+            "Nombre": "MVU/2026 - a compra ágil: 1641-2120-COT26 - CANULA TRAQUEOSTOMIA ADULTO CON BALON N 7.0 CON ENDOCANULA.",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1641-13018-AG26",
+            "Nombre": "MVU/2026 -a compra ágil: 1641-2123-COT26 - CANULA TRAQUEOSTOMIA ADULTO SIN BALON N 7.0 CON ENDOCANULA",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1641-13237-CM26",
+            "Nombre": "amv/ TOALLA DESECHABLE Orden de Compra: 1641-13237-CM26",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1641-13386-SE26",
+            "Nombre": "amv/ MAMADERA,CHUPETE ORDEN DE COMPRA DESDE 1641-6",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1641-13391-SE26",
+            "Nombre": "amv/ MODULO PROTEICO 91% PROTEINAS (CASEINATO CALC",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1641-34432-SE25",
+            "Nombre": "MGM CNP N°115641-116459 CATETER SOPORTE DE CRUCE 0.14    1641-120-LP25",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1656-338-SE25",
+            "Nombre": "SERVICIO DE TRANSPORTE DE PERSONAS AÑO 2026 1656-37-LP25",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1656-349-SE25",
+            "Nombre": "SERVICIO DE ASEO OFICINAS RANCAGUA AÑO 2026 (1656-36-LP25)",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1663-299-AG26",
+            "Nombre": "DISPOSITIVO PARA MANTENIMIENTO-OP-22.06.001.001",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1691-890-AG26",
+            "Nombre": "SOVM-PULSAR MEDICAL SPA-04/05/26",
+            "CodigoEstado": 4
+        },
+        {
+            "Codigo": "1704-2449-AG26",
+            "Nombre": "FORMULAS SUPLEMENTARIAS 1704-1547-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1704-2460-AG26",
+            "Nombre": "SET DE DRENAJE VESICAL SUPRAPUBICO 5.4 MM X 12 CM X 65 CM a compra ágil: 1704-1594-COT26",
+            "CodigoEstado": 4
+        },
+        {
+            "Codigo": "1718-404-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 1718-461-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1718-405-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 1718-456-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1738-179-AG26",
+            "Nombre": "350 COLACIONES PARA DELEGACIONES ESCOLARES DESFILE ANIVERSARIO COMUNA Orden de Compra generada por invitación a compra ágil: 1738-163-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1758-22-TD26",
+            "Nombre": "Orden de Compra generada por Trato Directo ID 1758-3-FTD26",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1759-47-TD26",
+            "Nombre": "Orden de Compra generada por Trato Directo ID 1759-29-FTD26",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1759-48-TD26",
+            "Nombre": "Orden de Compra generada por Trato Directo ID 1759-30-FTD26",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1906-26-AG26",
+            "Nombre": "REPARACION Y MEJORAMIENTO ELECTRICOS SRCEI ARAUCANIA ",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1953-747-CM26",
+            "Nombre": "502/ADQUISICION DE ARTICULOS DE OFICINA PROGRAMA INTERVENCION ESPECIALIZADA  PPL SENDA DEL CP VALPARAISO",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1953-748-TD26",
+            "Nombre": "Orden de Compra generada por Trato Directo ID 1953-43-FTD26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1965-169-AG26",
+            "Nombre": "CP Pta Arenas compra materiales proy prev de riesgo  ágil: 1965-88-COT26",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1965-191-CM26",
+            "Nombre": "CP PTA ARENAS COMPRA DE MANTEQUILLA MES ABRIL",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1965-192-CM26",
+            "Nombre": "CP PTA ARENAS COMPRA DE ALIMENTOS MES ABRIL",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1965-194-CM26",
+            "Nombre": "CP PTA ARENAS COMPRA DE VERDURA CONGELADA MES ABRIL",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "2026-242-AG26",
+            "Nombre": "Compra Juegos de Mesa para usuarios Talleres ESMA LA LIGUA Orden de Compra generada por invitación a compra ágil: 2026-140-COT26",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "2026-243-AG26",
+            "Nombre": "Compra artículos de Librería usuarios Talleres ESMA LA LIGUA Orden de Compra generada por invitación a compra ágil: 2026-139-COT26",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "2026-245-AG26",
+            "Nombre": "Compra Cortinas Roller Black Out Blanco para ESMA Hospital de La Ligua Orden de Compra generada por invitación a compra ágil: 2026-134-COT26",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "2026-253-AG26",
+            "Nombre": "Compra artículos de ferretería para usuarios Talleres ESMA LA LIGUA Orden de Compra generada por invitación a compra ágil: 2026-155-COT26",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "2026-265-AG26",
+            "Nombre": "ARTICULOS DE OFICINA ESMA LA LIGUA compra ágil: 2026-122-COT26",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "2026-285-AG26",
+            "Nombre": "Compra materiales manualidades para usuarios Talleres usuarios ESMA LA LIGUA Orden de Compra generada por invitación a compra ágil: 2026-157-COT26",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "2026-351-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 2026-164-COT26",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "2026-610-AG26",
+            "Nombre": "JUEGOS INFANTILES PARA CESFAM CATAPILCO Compra ágil: 2026-240-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "2069-3740-SE26",
+            "Nombre": "IGS-CP-052026-PROGRAMA LABORATORIO MAYO 2026",
+            "CodigoEstado": 4
+        },
+        {
+            "Codigo": "2069-3741-SE26",
+            "Nombre": "IGS-CP-052026-PROGRAMA LABORATORIO MAYO 2026",
+            "CodigoEstado": 4
+        },
+        {
+            "Codigo": "2069-3834-SE26",
+            "Nombre": "IGS-CP-052026-PROGRAMA LABORATORIO MAYO 2026\t",
+            "CodigoEstado": 4
+        },
+        {
+            "Codigo": "2074-8-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 2074-5-COT26,Servicio cafetería para 6 de mayo 2026",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "2109-880-SE26",
+            "Nombre": "Andadores con Ruedas (2109-15-LP23).",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "2196-403-SE26",
+            "Nombre": "papel austral (MAYO- JUNIO  2026 ) PROGRAMA ASEO PAPELES Y TOALLAS POR 18 MESES  DESDE 2196-19-LE25",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "2196-407-SE26",
+            "Nombre": "papel austral PROGRAMA ASEO (MAYO- JUNIO 2026 ) POREL PERIODO DE 18 MESES DESDE 2196-17-LE25 ",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "2258-3418-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 2258-374-COT26",
+            "CodigoEstado": 4
+        },
+        {
+            "Codigo": "2281-605-AG26",
+            "Nombre": "S.P 1187 Esmeril Angular Inalámbrico para Carpinteria Orden de Compra generada por invitación a compra ágil: 2281-799-COT26",
+            "CodigoEstado": 5
+        },
+        {
+            "Codigo": "2322-286-SE26",
+            "Nombre": "ORDEN DE COMPRA DESDE 2322-33-LE26",
+            "CodigoEstado": 4
+        },
+        {
+            "Codigo": "2322-287-SE26",
+            "Nombre": "ORDEN DE COMPRA DESDE 2322-30-LE26",
+            "CodigoEstado": 4
+        },
+        {
+            "Codigo": "2324-1955-CM25",
+            "Nombre": "CARNES ROJAS, BLANCAS Y CONGELADOS, RESIDENTES ELEAM ALERCE SENAMA / DIDECO",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "2324-464-AG26",
+            "Nombre": "SERVICIO MANTENCIÓN SISTEMA CALEFACCIÓN (3 CALDERAS A PETRÓLEO) EDIFICIO CONSISTORAIL II/ DIRECCIÓN DE OPERACIONES-DEPTO TÉCNICO Orden de Compra generada por invitación a compra ágil: 2324-300-COT26",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "2371-138-AG26",
+            "Nombre": "SP-214 EXP. 5977 Orden de Compra generada por invitación a compra ágil: 2371-151-COT26, MATERIALES DE CONSTRUCCIÓN, OTEC MUNICIPL.",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "2376-302-AG26",
+            "Nombre": "SUMINISTRO E INSTALACIÓN JUEGOS EN PLAZA SAN NECTARIO. Orden de Compra generada por invitación a compra ágil: 2376-260-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "2395-381-AG26",
+            "Nombre": "DROGUERIA /CANULAS ",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "2413-78-SE25",
+            "Nombre": "ORDEN DE COMPRA DESDE 2413-51-LE25",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "2416-61-AG26",
+            "Nombre": "ADQUISICION MATERIAL DIDACTICO CA: 2416-55-COT26/ CRECER EN COMUNIDAD ",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "2504-34-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 2504-21-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "2546-384-AG26",
+            "Nombre": "ADQUISICION DE ARTICULOS KINESIOLOGICOS PARA PROGRAMA PERSONAS MAYORES compra ágil: 2546-423-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "2591-356-AG26",
+            "Nombre": "Adquisición de herramientas para la mantención de plazas en general  de la comuna de Pozo Almonte",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "2665-150-AG26",
+            "Nombre": "Adquisición de estandarte y porta estandarte para escuela Punta de Parra",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "2701-253-AG26",
+            "Nombre": "Tortas, INSTRUCTIVO N° 117, compra ágil: 2701-228-COT26, Actividades Comunitarias, Solicitado por Organizaciones Comunitarias.-",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "2731-361-AG26",
+            "Nombre": "SC N°16-028_COMUNICACIONES_ADQUISICIÓN DE GALVANOS CORPORATIVOS_Orden de Compra generada por invitación a compra ágil: 2731-433-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "2788-407-TD26",
+            "Nombre": "Orden de Compra generada por Trato Directo ID 2788-769-FTD25",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "2793-399-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 2793-362-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "2859-303-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 2859-270-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "2886-67-SE26",
+            "Nombre": "SERVICIO DE ACERCAMIENTO DE TRANSPORTE ESCOLAR RURAL 2026 DESDE 2886-2-LP26 MES DE ABRIL DEL 2026",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "2886-69-SE26",
+            "Nombre": "SERVICIO DE ACERCAMIENTO DE TRANSPORTE ESCOLAR RURAL 2026 lINEA 9 DESDE 2886-5-LE26 MES DE ABRIL",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "2905-296-SE26",
+            "Nombre": "SERVICIO DE COCTEL PARA CELEBRACIÓN DE LA SEMANA DEL TRABAJADOR EN LANCO Y MALALHUE OMIL",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "2982-48-AG26",
+            "Nombre": "SERVICIO DE DESRATIZACIÓN, SANITIZACIÓN Y DESINSECTACIÓN",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "2989-231-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 2989-136-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "3086-535-AG26",
+            "Nombre": "MATERIALES CAMBIO DUCTO DESCARGA GASES INCINERADOR, BASEPRAT",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "3154-34-AG26",
+            "Nombre": "REPUESTOS DESBROZADORA Y MOTOSIERRA",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "3201-99-AG26",
+            "Nombre": "4 PROYECTORES BENQ MW560C,  PARA ESCUELA ALBORADA",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "3220-265-AG26",
+            "Nombre": "ARTICULOS PARA IMPRENTA INSIGNIA",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "3241-97-SE26",
+            "Nombre": "ADQUISICIÓN DE RADIADOR PARA VIVIENDA FISCAL",
+            "CodigoEstado": 4
+        },
+        {
+            "Codigo": "3270-37-CM26",
+            "Nombre": "Orden de Compra: 3270-37-CM26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "3335-435-AG26",
+            "Nombre": " COLACIÓN FRÍA PARA ESCUELA RURAL LOS CHILCOS ORD. N°14 LEY S.E.P. Orden de Compra generada por invitación a compra ágil: 3335-381-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "3340-106-AG26",
+            "Nombre": "SERVICIO DE FABRICACION E INSTALACIÓN DE MAMPARAS SECTOR SALÓN CTEL FONTECILLA (FONDOS INTERNOS)",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "3351-12-AG26",
+            "Nombre": "ADQUISICIÓN DE MATERIALES PARA LABORATORIO PARA LA JEFATURA DE ESTUDIOS",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "3378-3872-AG26",
+            "Nombre": " OC Generada desde Compra Ágil N°3378-682-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "3390-124-AG26",
+            "Nombre": "FONDOS PRESUPUESTARIOS, herramientas para la brimot4 Orden de Compra generada por invitación a compra ágil: 3390-50-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "3412-70-AG26",
+            "Nombre": "LINTERNA DE MANO",
+            "CodigoEstado": 4
+        },
+        {
+            "Codigo": "3510-389-AG26",
+            "Nombre": "Mejoramiento Sala de manipuladora Liceo Politécnico",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "355-288-AG26",
+            "Nombre": "Compra ágil Trocar espinal 355-142-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "3617-66-SE26",
+            "Nombre": "SS. de preparación de sustrato para sistema Patrik SIRE 366 SIC 474",
+            "CodigoEstado": 4
+        },
+        {
+            "Codigo": "363-188-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 363-137-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "3638-196-AG26",
+            "Nombre": "ADQUISICIÓN SACOS DE CEMENTOS - AYUDA ASISTENCIAL",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "3638-203-AG26",
+            "Nombre": "ADQ. DE PREMIOS VARIOS - CULTURA",
+            "CodigoEstado": 4
+        },
+        {
+            "Codigo": "3638-204-TD26",
+            "Nombre": "Orden de Compra generada por Trato Directo ID 3638-57-FTD25",
+            "CodigoEstado": 4
+        },
+        {
+            "Codigo": "3651-148-SE26",
+            "Nombre": "INSUMOS ESTERILIZACIÓN CESFAM QUILLECO 3651-12-L126",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "3674-768-AG25",
+            "Nombre": "MANTENCIÓN EQUIPOS MEDICOS, DENTALES Y OTROS: 3674-129-COT25",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "3695-163-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 3695-147-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "3704-113-TD26",
+            "Nombre": "Orden de Compra generada por Trato Directo ID 3704-18-FTD26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "3734-311-AG26",
+            "Nombre": "ADQ NEUMATICOS CAMIONETA",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "3765-380-TD26",
+            "Nombre": "Orden de Compra generada por Trato Directo ID 3765-150-FTD26",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "3808-66-AG26",
+            "Nombre": "SUBV. SEP-ADQUISICIÓN DE EQUIPOS DE RADIOS PARA COMUNICACIONES DEL LICEO M.A.G.R.",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "3917-88-AG26",
+            "Nombre": "Juegos didactico de patio E-104 SEP a compra ágil: 3917-72-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "3946-196-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 3946-145-COT26 Contratación de Mano de Obra para Trabajos Correctivos de Saneamiento Sanitario y Obtención de Recepción Final, Calle Sargento Aldea.",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "3949-183-AG26",
+            "Nombre": "MATERIALES DE OFICINA F.003 compra ágil: 3949-88-COT26 (DAIF)",
+            "CodigoEstado": 4
+        },
+        {
+            "Codigo": "3962-150-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 3962-120-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "3982-183-AG26",
+            "Nombre": "Material deportivo Liceo, Pro retención. Compra ágil: 3982-89-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "4034-186-AG26",
+            "Nombre": "ADQUISICIÓN DE 5 BASUREROS DE 360 LITROS CON RUEDAS, ORD. N° 067, LICEO F-832, FONDOS DAEM,",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "4123-177-AG26",
+            "Nombre": "MATERIALES DE OBRA PARA DEPTO. SALUD NINHUE, compra ágil: 4123-94-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "4170-133-SE26",
+            "Nombre": "ORDEN DE COMPRA DESDE 4170-24-LE26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "418-1101-SE26",
+            "Nombre": "POR - SERV INTERNET ABRIL 2026 18/48",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "418-1977-TD25",
+            "Nombre": "Orden de Compra generada por Trato Directo ID 418-776-FTD25",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "4190-91-AG26",
+            "Nombre": "Bolsas para Almacigos y Semillas",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "4239-187-AG26",
+            "Nombre": "ADQUISICION DE MATERIAL DIDACTICO PARA EL PROCESO PEDAGOGICO DE LOS ALUMNOS DE LA ESCUELA F-769 GABRIELA MISTRAL, FONDOS SEP; Orden de Compra generada por invitación a compra ágil: 4239-160-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "4414-543-AG26",
+            "Nombre": "COFFE BREACK  150 PERSONAS PARA CAPACITACION FONDO SOCIAL DE LA REPUBLICA – ORGANIZACIONES COMUNITARIAS",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "4483-19-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 4483-21-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "4491-189-AG26",
+            "Nombre": "COMPRA DE ESTANDARTE, PORTA ESTANDARTE DE CUERO Y BANDERA (VPL/12): 4491-160-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "4535-1-AG26",
+            "Nombre": "MATERIAL PEDAGÓGICO",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "4596-294-AG26",
+            "Nombre": "MANTENCION Y REPARACION DEPENDENCIAS ESCUELA MONTELEON DE SAN NICOLAS: 4596-199-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "4610-19-SE26",
+            "Nombre": "ORDEN DE COMPRA DESDE 4610-18-LP26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "4626-16-TD26",
+            "Nombre": "Orden de Compra generada por Trato Directo ID 4626-2-FTD26",
+            "CodigoEstado": 5
+        },
+        {
+            "Codigo": "4686-328-CM26",
+            "Nombre": "REPOSICION DE STOCK, SERVICIO DE ALIMENTACION",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "4778-134-TD26",
+            "Nombre": "Orden de Compra generada por Trato Directo ID 4778-67-FTD26",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "4857-200-SE26",
+            "Nombre": "Transporte Esc.Ana Molina Línea 1 Quidico 2026",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "4857-202-SE26",
+            "Nombre": "Transporte Esc.Ana Molina Línea 3 Lleulleu 2026",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "4857-210-SE26",
+            "Nombre": "Transporte Esc.Mapudungun Línea 2 Ranquilhue 2026",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "4857-214-SE26",
+            "Nombre": "Transporte Esc.HenchiAmulei Línea 1 Ponotro 2026",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "4857-217-SE26",
+            "Nombre": "Transporte Escolar Línea 2 Primer Agua 2026",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "4882-23-SE26",
+            "Nombre": "ORDEN DE COMPRA DESDE 4882-13-LE26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "4890-43-TD26",
+            "Nombre": "Orden de Compra generada por Trato Directo ID 4890-21-FTD26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "4890-44-TD26",
+            "Nombre": "Orden de Compra generada por Trato Directo ID 4890-22-FTD26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "4928-29-AG26",
+            "Nombre": "ADQUISICIÓN DE 01 IMPRESORA PORTÁTIL PARA CARABINEROS DE CHILE compra ágil: 4928-26-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "4939-167-AG26",
+            "Nombre": "Instrumentos Pueblos Originarios de Chile Colegio J.J.Latorre Sep",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "494-985-SE26",
+            "Nombre": "PROGRAMACION,DESDE 494-13-LR23",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "494-987-SE26",
+            "Nombre": "PROGRAMACION,DESDE 494-13-LR23",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "5052-478-SE26",
+            "Nombre": "5052-39-LE25/2201001001/ABARROTES/MAYO",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "5067-973-CM26",
+            "Nombre": "Adq. de Art. de aseo Solicitud 90322",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "5178-1805-AG26",
+            "Nombre": "400120/B1/SP 1038266/NG",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "5240-133-SE26",
+            "Nombre": "ANEXO DE PRÓRROGA (RENOVACIÓN) CONTRATO DEL SERVICIO DE ASEO Y JARDINERIA\t",
+            "CodigoEstado": 4
+        },
+        {
+            "Codigo": "5240-134-SE26",
+            "Nombre": "SERV. MANTENCIÓN Y REPARACIÓN VEHICULOS TIPO LANZA AGUA A NIVEL NACIONAL",
+            "CodigoEstado": 4
+        },
+        {
+            "Codigo": "5254-1158-TD26",
+            "Nombre": "Orden de Compra generada por Trato Directo ID 5254-129-FTD26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "5326-582-TD26",
+            "Nombre": "Orden de Compra generada por Trato Directo ID 5326-282-FTD26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "5338-230-AG26",
+            "Nombre": "ADQUISICIÓN DE PANTALLA INTERACTIVA PARA LA SALA DE EXPERIMENTACCION DEL LABAP., CON CARGO AL PROYECTO MAG2495, SOL. 156649",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "5394-183-AG26",
+            "Nombre": "__C.A. – ADQUISICIÓN DE CAJAS CIELO AMERICAMO UMAG. SOL.157029",
+            "CodigoEstado": 4
+        },
+        {
+            "Codigo": "5520-2282-SE26",
+            "Nombre": "Suministro de Artículos Computacionales Licitación N° 5520-62-LE23 Renovación",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "5520-2679-SE26",
+            "Nombre": "Servicio de mantención y reparación para las sedes zonales de la I, II, IV y V región. Licitación 5520-21-LP24-RENOVACION",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "5520-2680-SE26",
+            "Nombre": "Servicio de mantención y reparación para las sedes zonales de la I, II, IV y V región. Licitación 5520-21-LP24-RENOVACION",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "5520-2681-SE26",
+            "Nombre": "Servicio de mantención y reparación para las sedes zonales de la I, II, IV y V región. Licitación 5520-21-LP24-RENOVACION",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "5520-2701-SE26",
+            "Nombre": "Servicio de mantención y reparación para las sedes zonales de la I, II, IV y V región. Licitación 5520-21-LP24-RENOVACION",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "5586-1148-AG26",
+            "Nombre": "P/A INSUMOS COFFEE Y COLACIONES EN EL MARCO DE LOS PROYECTOS PARTICIPATIVOS DEL PROGRAMA PACE UFRO a compra ágil: 5586-932-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "5627-105-AG26",
+            "Nombre": "COMPRA DE INSUMOS",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "564162-258-AG26",
+            "Nombre": "16 - 90526 - artículos de oficina",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "568658-795-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 568658-824-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "5756-201-AG26",
+            "Nombre": "CSG - Cajonera móvil - Sol 8808 - 5756-166-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "5872-53-SE26",
+            "Nombre": "RE.195.22 Servicio de transporte Astral",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "5872-62-SE26",
+            "Nombre": "RE.450.23 Servicio de mantención mantención equipo",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "591-143-AG26",
+            "Nombre": "CA NX insumos eléctrico  591-19-COT26 JCP",
+            "CodigoEstado": 4
+        },
+        {
+            "Codigo": "595824-88-SE22",
+            "Nombre": "MAT. PREV Y CORRET. AMBULANCIAS DE U. DE MOVILIZACION DEL HSF MAYO 2022",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "612-250-SE26",
+            "Nombre": "DPAFS SC PAC 385-2026 Sellos verdes",
+            "CodigoEstado": 5
+        },
+        {
+            "Codigo": "617807-2537-TD26",
+            "Nombre": "Orden de Compra generada por Trato Directo ID 617807-329-FTD26",
+            "CodigoEstado": 4
+        },
+        {
+            "Codigo": "617807-2538-TD26",
+            "Nombre": "Orden de Compra generada por Trato Directo ID 617807-330-FTD26",
+            "CodigoEstado": 4
+        },
+        {
+            "Codigo": "617807-2539-TD26",
+            "Nombre": "Orden de Compra generada por Trato Directo ID 617807-331-FTD26",
+            "CodigoEstado": 4
+        },
+        {
+            "Codigo": "617807-2540-TD26",
+            "Nombre": "Orden de Compra generada por Trato Directo ID 617807-332-FTD26",
+            "CodigoEstado": 4
+        },
+        {
+            "Codigo": "617807-2541-TD26",
+            "Nombre": "Orden de Compra generada por Trato Directo ID 617807-333-FTD26",
+            "CodigoEstado": 4
+        },
+        {
+            "Codigo": "619133-2095-SE26",
+            "Nombre": "MTG ORDEN DE COMPRA DESDE 619133-62-LE23",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "621-328-SE26",
+            "Nombre": "621-1260-LR25; 4500041109",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "621-346-SE26",
+            "Nombre": "621-1256-LR25; 4500041118-4500041119",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "628-362-AG25",
+            "Nombre": "Servicio de fumigación para dependencias del nivel central. C.A.: 628-92-COT25",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "654-131-AG26",
+            "Nombre": " MANTENCION SISTEMA CONTROL DE ACCESO PUERTAS",
+            "CodigoEstado": 9
+        },
+        {
+            "Codigo": "661-11-TD26",
+            "Nombre": "Orden de Compra generada por Trato Directo ID 661-1-FTD26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "699866-5923-AG26",
+            "Nombre": "AG/2204005003/PAPEL TÉRMICO PARA IMPRESORA/MAYO",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "759-352-SE22",
+            "Nombre": "SERVICIOS DE MEDIACIÓN FAMILIAR, ZONA N, REGIÓN DEL BIOBÍO DESDE 759-2-LQ22",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "759-591-SE22",
+            "Nombre": "SERVICIOS DE MEDIACIÓN FAMILIAR, ZONA P, REGIÓN DEL BIOBÍO DESDE 759-7-LQ22",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "759-628-SE22",
+            "Nombre": "SERVICIOS DE MEDIACIÓN FAMILIAR, ZONA H, REGIÓN DE LA ARAUCANÍA",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "759-630-SE22",
+            "Nombre": "SERVICIOS DE MEDIACIÓN FAMILIAR, ZONA K, REGIÓN DEL BIOBÍO DESDE 759-119-LQ22",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "759-643-SE22",
+            "Nombre": "SERVICIOS DE MEDIACIÓN FAMILIAR, ZONA G, REGIÓN DE LA ARAUCANÍA ",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "759-662-SE22",
+            "Nombre": "SERVICIOS DE MEDIACIÓN FAMILIAR, ZONA J, REGIÓN DE LA ARAUCANÍA ",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "759-754-SE22",
+            "Nombre": "SERVICIOS DE MEDIACIÓN FAMILIAR, ZONA M, REGIÓN DEL BIOBÍO DESDE 759-124-LR22",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "759-756-SE22",
+            "Nombre": "SERVICIOS DE MEDIACIÓN FAMILIAR, ZONA O, REGIÓN DEL BIOBÍO DESDE 759-5-LR22",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "776-301-TD26",
+            "Nombre": "Orden de Compra generada por Trato Directo ID 776-47-FTD26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "778992-105-AG26",
+            "Nombre": "LP_ADQUISICIÓN DE MATERIALES DE CONSTRUCCIÓN PARA SER UTILIZADAS EN EL PERIODO FOCO DE LOS SLC Orden de Compra generada por invitación a compra ágil: 778992-83-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "804962-67-AG26",
+            "Nombre": "REFRIGERADOR CLINICO",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "813-682-AG26",
+            "Nombre": "(E1O2RT9) Insumos para Coordinación PEEC DNRSA (Bolsas) SBS.254; 813-287-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "838104-418-SE26",
+            "Nombre": "CMCH COMPRA DE CARNES ROJAS ",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "858-140-AG26",
+            "Nombre": " Articulos de Gasfitería, Unidad de Bienestar y Calidad de Vida",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "874750-140-SE26",
+            "Nombre": "SERVICIO D. TÉCNICO UNIDAD DIÁLISIS 2/12",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "886954-2604-SE26",
+            "Nombre": "222-249-00/‌/JACKSON PRATT 7 MM",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "899-276-SE26",
+            "Nombre": "COMPRA FICHA CARNET KINÉSICO",
+            "CodigoEstado": 4
+        },
+        {
+            "Codigo": "900-439-SE26",
+            "Nombre": "Hogar protegido Villa Armonía abril",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "900-440-SE26",
+            "Nombre": "Hogar protegido Villa Belén abril",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "900-442-TD26",
+            "Nombre": "Orden de Compra generada por Trato Directo ID 900-1-FTD26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "900-500-TD26",
+            "Nombre": "Orden de Compra generada por Trato Directo ID 900-1-FTD26",
+            "CodigoEstado": 5
+        },
+        {
+            "Codigo": "902-130-SE26",
+            "Nombre": "7201- REPARACION VEHÍCULO LDRS-80, SAG CAUQUENES.-",
+            "CodigoEstado": 4
+        },
+        {
+            "Codigo": "904-35-SE26",
+            "Nombre": "DR_MANTENCION CORRECTIVA CHACABUCO 635(904-1-LE26)",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "932-51-SE26",
+            "Nombre": "SERVICIO DE ALIMENTACIÓN PROGRAMA PROMESAS CHILE",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "932-63-SE26",
+            "Nombre": "SERVICIO DE ALIMENTACIÓN PROGRAMA PROMESAS CHILE",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "935-138-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 935-41-COT26",
+            "CodigoEstado": 4
+        },
+        {
+            "Codigo": "935-139-SE26",
+            "Nombre": "PASAJES BUS DELEGACIONES ATLETISMO NATALES Y TORRES DEL PAINE REGIONAL JDE",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "935-140-SE26",
+            "Nombre": "SERVICIO TRASLADO INTERNO DELEGACIONES DEPORTIVAS REGIONAL DE  ATLETISMO JDE",
+            "CodigoEstado": 4
+        },
+        {
+            "Codigo": "935-142-SE26",
+            "Nombre": "SERVICIO ALOJAMIENTO Y ALIMENTACION DELEGACIONES DEPORTIVA REGIONAL ATLETISMO JDE",
+            "CodigoEstado": 4
+        },
+        {
+            "Codigo": "935-143-SE26",
+            "Nombre": "IMPLEMENTACION DEPORTIVA - UNIDAD DEPORTE ALTO RENDIMIENTO",
+            "CodigoEstado": 4
+        },
+        {
+            "Codigo": "935-144-SE26",
+            "Nombre": "COMPRA PARLANTES DPS IND XII REGION",
+            "CodigoEstado": 4
+        },
+        {
+            "Codigo": "997-169-TD25",
+            "Nombre": "Orden de Compra generada por Trato Directo ID 997-21-FTD25",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "997-18-TD26",
+            "Nombre": "Orden de Compra generada por Trato Directo ID 997-3-FTD26",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "997-29-TD26",
+            "Nombre": "Orden de Compra generada por Trato Directo ID 997-4-FTD26",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "997-95-TD25",
+            "Nombre": "Orden de Compra generada por Trato Directo ID 997-11-FTD25",
+            "CodigoEstado": 12
+        }
+    ]
+}

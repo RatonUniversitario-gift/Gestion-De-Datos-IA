@@ -1,0 +1,252 @@
+{
+    "Cantidad": 49,
+    "FechaCreacion": "2026-05-09T11:53:16.9061226Z",
+    "Version": "v1",
+    "Listado": [
+        {
+            "Codigo": "1020-99-AG26",
+            "Nombre": "Servicio de Limpieza de Vidrios, Caja Escala Morandé 59, Edificio Central MOP.",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1036811-2-AG26",
+            "Nombre": "SENDA ÑUBLE_SERVICIO DE INTERNET ADICIONAL DE FIBRA ÓPTICA_12 MESES/Orden de Compra generada por invitación a compra ágil: 1036811-2-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1057474-88-AG26",
+            "Nombre": "SILLAS ERGONÓMICAS PARA INFORMÁTICA Y RECURSOS FÍSICOS DEL SSMN",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1057532-91-AG26",
+            "Nombre": "F2-472-BMC-DOSIMETROS PARA TRABAJADORES SSO",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1134432-574-AG25",
+            "Nombre": "ARRIENDO DE IMPRESORA DE GRAN FORMATO PARA DIRECCIÓN DE OBRAS MUNICIPALES Orden de Compra generada por invitación a compra ágil: 1134432-601-COT25",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1170507-731-SE25",
+            "Nombre": "903: Contratación del servicio de arriendo de enfriadores de aire que serán utilizados en periodo de 5 meses del año 2025 y 2026, desde licit ID 1170507-13-LE25 (UD_18/LP/1200/2409002/512/APS)",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1237328-200-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 1237328-61-COT26 / LECTOR DE HUELLAS DACTILARES / CGR N° 2720260031",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1330174-20-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 1330174-19-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1417913-304-AG26",
+            "Nombre": " SERVICIO DE PRODUCCIÓN Y EJECUCIÓN DE CELEBRACIÓN DEL DÍA DEL TRABAJADOR Y LA TRABAJADORA DEL BIENESTAR APS 2026 1417913-108-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "2026-417-SE24",
+            "Nombre": "ORDEN DE COMPRA DESDE 2026-11-LQ24",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "2065-305-AG26",
+            "Nombre": "Utencilios Desechables, stock mayo 2026, cotización compra ágil: 2065-203-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "2065-306-SE26",
+            "Nombre": "LIC 2065-9-LE24: Arriendo Container Bodegas, por l",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "2133-964-SE26",
+            "Nombre": "ORDEN DE COMPRA DESDE 2133-97-LP25",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "2133-966-SE26",
+            "Nombre": "ORDEN DE COMPRA DESDE 2133-91-LQ24",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "2297-601-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 2297-604-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "2378-67-CM26",
+            "Nombre": "Orden de Compra: 2378-67-CM26",
+            "CodigoEstado": 9
+        },
+        {
+            "Codigo": "2378-90-CM26",
+            "Nombre": "Orden de Compra: 2378-90-CM26",
+            "CodigoEstado": 4
+        },
+        {
+            "Codigo": "2424-594-AG26",
+            "Nombre": "SERVICIO DE PRODUCCIÓN DE EJECUCIÓN MURAL GRAN FORMATO/ PED. 32/1913 (KMGA) Orden de Compra generada por invitación a compra ágil: 2424-769-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "2721-146-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 2721-171-COT26 CAMAROTES COMPLETOS PARA PROGRAMA DE EMERGENCIA MUNICIPAL ",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "2731-368-AG26",
+            "Nombre": "SC N°18-053_DIMAS_UNIDAD DE MANTENCIÓN_ARRIENDO PLATAFORMA ELEVADORA_Orden de Compra generada por invitación a compra ágil: 2731-443-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "2756-52-AG26",
+            "Nombre": "Mantencion y Reparacion Equipos de Impresion Escuela Padre Andre Coindre y Escuela Presidente Pedro Aguirre Cerda.",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "2833-401-AG26",
+            "Nombre": "MANTENCION EQUIPO DE IMPRESION ESC. CRISTINA DURAN  compra ágil: 2833-356-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "2981-475-SE26",
+            "Nombre": "PASAJES NACIONALES COMETIDO FUNCIONARIO",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "3299-151-AG26",
+            "Nombre": "INSUMOS OLIMPIADAS LICEO BICENTENARIO AUGUSTO SANTELICES VALENZUELA Orden de Compra generada por invitación a compra ágil: 3299-91-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "3597-318-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 3597-381-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "3743-125-AG26",
+            "Nombre": " BEBIDAS Y CUBIERTOS DESECHABLES ACTIVIDAD DIA DEL ALUMNO LICEO BICENTENARIO LOS SAUCES",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "3778-144-TD26",
+            "Nombre": "Orden de Compra generada por Trato Directo ID 3778-7-FTD26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "4086-209-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 4086-205-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "4120-87-SE26",
+            "Nombre": "ORDEN DE COMPRA DESDE 4120-9-LE26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "4121-33-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 4121-9-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "4125-51-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 4125-41-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "4291-469-AG26",
+            "Nombre": "DEPTO. EDUCACION",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "4353-78-AG26",
+            "Nombre": "ARRIENDO DE BUS/ 4353-65-COT26/DIDECO",
+            "CodigoEstado": 4
+        },
+        {
+            "Codigo": "4353-79-TD26",
+            "Nombre": "Orden de Compra generada por Trato Directo ID 4353-19-FTD26",
+            "CodigoEstado": 4
+        },
+        {
+            "Codigo": "4375-1321-CM26",
+            "Nombre": "COLACION NOCTURA CENTRAL BERLIN Y EMPANADAS MAYO",
+            "CodigoEstado": 5
+        },
+        {
+            "Codigo": "4377-150-TD26",
+            "Nombre": "Orden de Compra generada por Trato Directo ID 4377-31-FTD26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "4906-112-SE26",
+            "Nombre": "ORDEN DE COMPRA DESDE 4906-9-LE26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "4993-223-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 4993-70-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "5060-230-AG26",
+            "Nombre": "S136. MANTENCION DE CALDERA A PELLET ESCUELA BOYECO, MEMO N° 48..Orden de Compra generada por invitación a compra ágil: 5060-238-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "5155-121-TD25",
+            "Nombre": "Orden de Compra generada por Trato Directo ID 5155-26-FTD25",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "539119-1474-SE26",
+            "Nombre": "SUMINISTRO DE ALIMENTOS PARA EL JARDIN INFANTÍL AYIWKULEY TAÑI PU PICHE CHE DE LA CIUDAD DE CONCEPCIÓN, SEGÚN SOLICITUD DE PEDIDO N°17 ADJUNTO, CORRESPONDIENTE AL MES DE MAYO 2026. DE LA DIRECCIÓN DE BIENESTAR DE CARABINEROS, LICITACION 539119-20-LE25.",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "5756-212-AG26",
+            "Nombre": "CSG - Catering 14 de mayo - Solicitud 9135 - 5756-197-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "5761-68-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 5761-52-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "705290-897-AG26",
+            "Nombre": "CURSO ACTUALIZACION IVE LEY 21.030 ID:\t705290-54-COT26(AG,CAPACITACION,221100200101,BHN)",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "720-101-SE26",
+            "Nombre": "PAC/SERVICIO MANTENCION OF SECTORIAL ARICA",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "799512-424-AG26",
+            "Nombre": "SERVICIO TRANSPORTE DE MUESTRAS ENTRE CAD VALPARAÍSO E ISP (SANTIAGO)",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "889473-627-AG26",
+            "Nombre": "SC 7375 - CDP 2723 - Purificadores de aire Impresora 3D",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "889473-642-AG26",
+            "Nombre": "SC 7497 - CDP 2872 -  EPP de soldadura, seguridad respiratoria y herramientas de taller",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "895072-52-AG26",
+            "Nombre": " Servicio de cafetería jornada provincial Maule",
+            "CodigoEstado": 6
+        }
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "Cantidad": 24,
+    "FechaCreacion": "2026-05-10T11:54:30.1928827Z",
+    "Version": "v1",
+    "Listado": [
+        {
+            "Codigo": "1057430-1197-SE26",
+            "Nombre": "Mantención Correctiva de Caldera ",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1057430-1198-SE26",
+            "Nombre": "Mantención Correctiva de Caldera ",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1057509-5152-SE26",
+            "Nombre": "Fotocopias Abril 2026 (Conv, PRM)",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1057534-536-CC26",
+            "Nombre": "Mantención Preventiva Plantas tratamiento de Agua ",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1375735-19-AG26",
+            "Nombre": "P01 ADQ. EQUIPOS INFRAESTRUCTURA",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1523-947-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 1523-482-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1576-57-CM26",
+            "Nombre": "RRFF - RECARGA BOMBONA JI ABLASTIBLE",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1576-62-CM26",
+            "Nombre": "RRFF - RECARGA BOMBONA JI ABASTIBLE",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "1576-72-CM26",
+            "Nombre": "RRFF - RECARGA BOMBONA JI ABASTIBLE",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "2322-183-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 2322-120-COT26. Adquisición Talonarios de Infracción al Tránsito Carabineros de Chile ",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "2322-194-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 2322-129-COT26",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "2322-238-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 2322-182-COT26. Adquisición indumentaria para equipo de trabajo Programa Red Local de Apoyos y Cuidados.  ",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "2322-245-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 2322-181-COT26",
+            "CodigoEstado": 12
+        },
+        {
+            "Codigo": "2730-229-SE26",
+            "Nombre": "ORDEN DE COMPRA DESDE 2730-30-LE26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "2730-230-SE26",
+            "Nombre": "ORDEN DE COMPRA DESDE 2730-30-LE26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "2735-509-AG26",
+            "Nombre": "Adquisicion Balones Deportivos, compra ágil: 2735-455-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "3871-81-SE26",
+            "Nombre": "PRESTACIONES PROGRAMA RESOLUTIVIDAD EN APS AÑO 2026 55",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "407-332-SE26",
+            "Nombre": "MANT PREV AUTOCLAVE SEDILE / CUOTA 22",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "407-386-SE26",
+            "Nombre": "ORDEN DE COMPRA DESDE 407-11-LE26 respuesto con ca",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "407-473-SE26",
+            "Nombre": "MANT PREV AUTOCLAVE SEDILE / CUOTA 23",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "4120-82-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 4120-34-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "4238-110-SE26",
+            "Nombre": "CONTRATO SUMINISTRO MANTENCION PREVENTIVA AUTOCLAV",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "494-1033-AG26",
+            "Nombre": "REGULARIZACION CIRUGIAS TMT25, DESDE AG: 494-452-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "494-1054-AG26",
+            "Nombre": "REGULARIZACION CIERUGIAS LIGAMENTO CRUZADO Y LESION DEDO, DESDE AG: 494-451-COT26",
+            "CodigoEstado": 6
+        }
+    ]
+}

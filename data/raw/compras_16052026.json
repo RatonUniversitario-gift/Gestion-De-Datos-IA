@@ -1,0 +1,267 @@
+{
+    "Cantidad": 52,
+    "FechaCreacion": "2026-05-16T11:54:20.7143772Z",
+    "Version": "v1",
+    "Listado": [
+        {
+            "Codigo": "1057414-358-TD26",
+            "Nombre": "Orden de Compra generada por Trato Directo ID 1057414-17-FTD26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1057434-531-SE26",
+            "Nombre": "SERVICIOS DE MOVILIZACION PARA TRASLADO DE EQUIPOS DE SALUD Y REQUERIMIENTOS A FINES DEL CESFAM DR. VICTOR MANUEL FERNANDEZ",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1057439-3391-TD26",
+            "Nombre": "Orden de Compra generada por Trato Directo ID 1057439-551-FTD26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1057536-1389-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 1057536-562-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1058498-20-SE26",
+            "Nombre": "ARRIENDO DE IMPRESORA BROTHER L6900DW 30/36 MES DE ABRIL 2026 (INFORMATICA)",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1077908-89-AG26",
+            "Nombre": "SC N° 284 COMPRA DE CARRO DE TRASLADO DE ROPA Y TEXTILES/ LAVANDERIA PARA UNIDAD EMERGENCIA DEL C.O.N.",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1233613-887-SE26",
+            "Nombre": "PARLANTE- MARZO-ESCUELA ESPAÑA",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1238167-163-TD26",
+            "Nombre": "Orden de Compra generada por Trato Directo ID 1238167-22-FTD26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1346350-19-AG26",
+            "Nombre": " Adquisición de Premios Fair Play Anfa Quillon, Deportes” compra ágil: 1346350-17-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1413-392-AG26",
+            "Nombre": "CDP DE CASTRO REQUIERE HERRAMIENTA PARA MANTENCIÓN (ROTOMARTILLO compra ágil: 1413-145-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1413-416-AG26",
+            "Nombre": "CET OSORNO ADQUIERE COCINA Y CALEFONT PARA COCINA FUNCIONARIOS Orden de Compra generada por invitación a compra ágil: 1413-147-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1459242-12-AG26",
+            "Nombre": "SERVICIO DE ALIMENTACIÓN Y ARRIENDO DE SALÓN PARA CAPACITACIÓN CURSO \"TODOS A BORDO GESTIONANADO EL CAMBIO RUMBO AL NUEVO HOSPITAL\" A REALIZARSE LOS DIAS 19 DE MAYO Y 08 DE JULIO 2026, H. PARRAL.",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1469-1039-AG26",
+            "Nombre": "20-41167 Orden de Compra generada por invitación a compra ágil: 1469-1125-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1663-510-AG26",
+            "Nombre": "CAJAS ORGANIZADORAS - PPTO 22.04.014",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1671-77-AG26",
+            "Nombre": "Programa Chagas / Levadura y Azúcar.",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1947-2124-SE26",
+            "Nombre": "810 Servicio de Infraestructura y Soporte de Servidores (06/36) - MARZO 2026 - Sistemas y Tecnologías de Información (MMT)",
+            "CodigoEstado": 5
+        },
+        {
+            "Codigo": "1947-2296-SE26",
+            "Nombre": "810 Servicio de Infraestructura y Soporte de Servidores (07/36) - ABRIL 2026 - Sistemas y Tecnologías de Información (MMT)",
+            "CodigoEstado": 5
+        },
+        {
+            "Codigo": "2179-107-AG26",
+            "Nombre": "Suministro e Instalacion de Motores Electricos, compra ágil: 2179-88-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "2258-4003-SE26",
+            "Nombre": "OC para 2258-213-LQ24 ABRIL 2026",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "2289-471-SE26",
+            "Nombre": "PRESENTACION ARTISTICA MUSICAL DIA 06/03",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "2291-815-AG26",
+            "Nombre": "NP 28 OPERATIVA, ARRIENDO 25 DIAS MOTOBOMBA CENTRIFUGA DIESEL TRACK,  2291-436-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "2295-67-SE26",
+            "Nombre": "ORDEN DE COMPRA DESDE 2295-43-LE26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "2393-590-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 2393-464-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "2429-505-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 2429-400-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "2658-582-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 2658-582-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "2658-601-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 2658-614-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "2658-602-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 2658-603-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "2677-115-AG26",
+            "Nombre": "SERVICIO TÉCNICO EQUIPAMIENTO DENTAL",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "2730-192-SE26",
+            "Nombre": "regularizacion, convenio suministro transporte",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "2730-194-SE26",
+            "Nombre": "Serv. Barcaza para traslado Maquinaria Municipal",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "2730-210-SE26",
+            "Nombre": "Servicio de Traslado Marítimo Transbordador ",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "2785-332-AG26",
+            "Nombre": "SDA 5889/ SERVICIO DE TRANSPORTE PARA 4 FECHAS DISTINTAS- a compra ágil: 2785-333-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "2859-375-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 2859-320-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "3149-137-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 3149-122-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "3190-106-AG26",
+            "Nombre": "REPARACION DE CAÑERIAS DE GAS DE LA GOBERNACION MARITIMA DE SAN ANTONIO SEGUN COMPRA AGIL N°: 3190-105-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "3201-137-AG26",
+            "Nombre": "PIZARRA ROTATIVA BLANCA T/120*90 CON RUEDAS ESCUELA DOMIOTILA PINNA PARRA",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "3695-187-SE26",
+            "Nombre": "CONVENIO DE CONTRATACIÓN DE SERVICIO DE TRANSPORTE",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "3871-98-SE26",
+            "Nombre": "PROGRAMA CONTROL DE PLAGAS DEPARTAMENTO DE SALUD AÑO 2026 66",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "4044-319-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 4044-253-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "4180-76-AG26",
+            "Nombre": "ADQUISICIÓN DE 02 CASILLEROS DE UN CUERPO ",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "4322-283-AG26",
+            "Nombre": "Orden de Compra ágil: 4322-266-COT26 SERVICIO DE COCTELERIA MALON DE BIENVENIDA PROGRAMA VINCULOS VERSION 20",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "434-392-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 434-254-COT26",
+            "CodigoEstado": 4
+        },
+        {
+            "Codigo": "511505-110-AG26",
+            "Nombre": "PROYECTO FIUDA2030",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "5158-53-AG26",
+            "Nombre": "LIMPIEZA Y MANTENCIÓN DE LA RED DE DRENES DE AGUAS LLUVIAS: 5158-41-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "5349-996-TD26",
+            "Nombre": "Orden de Compra generada por Trato Directo ID 5349-179-FTD26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "559511-130-AG26",
+            "Nombre": "Trabajos de reparaciones varias interior Escuela La Bandera E-97 compra ágil: 559511-53-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "595824-65-CC26",
+            "Nombre": "ARRIENDO DE IMPRESORAS ABRIL 2026",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "628-30-AG26",
+            "Nombre": "Servicio de arriendo de cámaras de vigilancia para la Dirección Nacional por 24 meses, desde C.A. 628-11-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "697057-61-AG26",
+            "Nombre": "Recarga teléfono satelital",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "800-2905-AG26",
+            "Nombre": "DOG_DETERMINACIONES BANCO DE SANGRE ABRIL(800-3413-COT26/215081)",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "804962-77-AG26",
+            "Nombre": "INSUMOS PARA IMPRESIONES 3D",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "930039-19-AG26",
+            "Nombre": "TRIPTICOS PARA EL MUSEO REGIONAL DE AYSÉN",
+            "CodigoEstado": 6
+        }
+    ]
+}

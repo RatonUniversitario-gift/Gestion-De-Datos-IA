@@ -1,21 +1,21 @@
 ﻿Codigo,Nombre,CodigoEstado,EstadoDescripcion,TipoMoneda,OrdenTotalNeto,OrdenTotal,Producto,Cantidad,PrecioNeto,ItemTotal,FechaCreacion,FechaProcesamiento
-1057430-1197-SE26,Mantención Correctiva De Caldera,6,Aceptada,CLP,3307900.0,3936401.0,"Supervisión de instalación, ajuste o mantenimiento",1.0,3307900.0,3307900.0,2026-05-02T18:47:50.107,2026-05-17 12:01:10
-1057430-1198-SE26,Mantención Correctiva De Caldera,6,Aceptada,CLP,730000.0,868700.0,"Supervisión de instalación, ajuste o mantenimiento",1.0,730000.0,730000.0,2026-05-02T18:48:24.43,2026-05-17 12:01:10
-1057509-5152-SE26,"Fotocopias Abril 2026 (Conv, Prm)",6,Aceptada,CLP,3487424.0,4150035.0,Anillados,61.0,1200.0,73200.0,2026-05-06T15:39:33.44,2026-05-17 12:01:10
-1057509-5152-SE26,"Fotocopias Abril 2026 (Conv, Prm)",6,Aceptada,CLP,3487424.0,4150035.0,Anillados,43.0,1500.0,64500.0,2026-05-06T15:39:33.44,2026-05-17 12:01:10
-1057509-5152-SE26,"Fotocopias Abril 2026 (Conv, Prm)",6,Aceptada,CLP,3487424.0,4150035.0,Servicios de copias en blanco y negro,119633.0,28.0,3349724.0,2026-05-06T15:39:33.44,2026-05-17 12:01:10
-1057534-536-CC26,Mantención Preventiva Plantas Tratamiento De Agua,6,Aceptada,CLP,1300000.0,1547000.0,Servicio de mantenimiento de equipo de fabricación,1.0,1300000.0,1300000.0,2026-05-06T15:11:23.61,2026-05-17 12:01:10
-1375735-19-AG26,P01 Adq. Equipos Infraestructura,6,Aceptada,CLP,4386370.0,5291180.0,Anemómetros,1.0,349900.0,0.0,2026-05-05T10:53:55.973,2026-05-17 12:01:10
-1375735-19-AG26,P01 Adq. Equipos Infraestructura,6,Aceptada,CLP,4386370.0,5291180.0,Luxómetros,1.0,369900.0,0.0,2026-05-05T10:53:55.973,2026-05-17 12:01:10
-1375735-19-AG26,P01 Adq. Equipos Infraestructura,6,Aceptada,CLP,4386370.0,5291180.0,Pantallas térmicas,1.0,610990.0,0.0,2026-05-05T10:53:55.973,2026-05-17 12:01:10
-1375735-19-AG26,P01 Adq. Equipos Infraestructura,6,Aceptada,CLP,4386370.0,5291180.0,Medidores de voltaje o corriente,2.0,50000.0,0.0,2026-05-05T10:53:55.973,2026-05-17 12:01:10
-1375735-19-AG26,P01 Adq. Equipos Infraestructura,6,Aceptada,CLP,4386370.0,5291180.0,Detectores,1.0,822900.0,0.0,2026-05-05T10:53:55.973,2026-05-17 12:01:10
-1375735-19-AG26,P01 Adq. Equipos Infraestructura,6,Aceptada,CLP,4386370.0,5291180.0,Detectores de gases inflamables o peligrosos para generadores,1.0,276800.0,0.0,2026-05-05T10:53:55.973,2026-05-17 12:01:10
-1375735-19-AG26,P01 Adq. Equipos Infraestructura,6,Aceptada,CLP,4386370.0,5291180.0,Detectores de fugas de líquidos,1.0,829990.0,0.0,2026-05-05T10:53:55.973,2026-05-17 12:01:10
-1375735-19-AG26,P01 Adq. Equipos Infraestructura,6,Aceptada,CLP,4386370.0,5291180.0,Detectores,1.0,825990.0,0.0,2026-05-05T10:53:55.973,2026-05-17 12:01:10
-1375735-19-AG26,P01 Adq. Equipos Infraestructura,6,Aceptada,CLP,4386370.0,5291180.0,Pirómetros,1.0,199900.0,0.0,2026-05-05T10:53:55.973,2026-05-17 12:01:10
-1523-947-AG26,Orden De Compra Generada Por Invitación A Compra Ágil: 1523-482-Cot26,6,Aceptada,CLP,1200000.0,1428000.0,Coctelera o accesorios de cóctel,4.0,300000.0,0.0,2026-05-06T15:36:47.823,2026-05-17 12:01:10
-1576-57-CM26,Rrff - Recarga Bombona Ji Ablastible,12,Recepción Conforme,CLP,4361700.0,5190423.0,GAS LICUADO GRANEL LITRO REGIÓN DEL BIOBÍO,10850.0,402.0,4361700.0,2026-04-16T12:52:04.233,2026-05-17 12:01:10
-1576-62-CM26,Rrff - Recarga Bombona Ji Abastible,12,Recepción Conforme,CLP,495000.0,589050.0,GAS LICUADO GRANEL LITRO REGIÓN DEL BIOBÍO,1250.0,396.0,495000.0,2026-04-20T14:34:06.077,2026-05-17 12:01:10
-1576-72-CM26,Rrff - Recarga Bombona Ji Abastible,12,Recepción Conforme,CLP,5270950.0,6272430.0,GAS LICUADO GRANEL LITRO REGIÓN DEL BIOBÍO,13550.0,389.0,5270950.0,2026-04-30T15:30:19.19,2026-05-17 12:01:10
-2322-183-AG26,Orden De Compra Generada Por Invitación A Compra Ágil: 2322-120-Cot26. Adquisición Talonarios De Infracción Al Tránsito Carabineros De Chile,12,Recepción Conforme,CLP,762200.0,907018.0,Impresión de papelería o formularios comerciales,370.0,2060.0,0.0,2026-03-25T15:31:36.94,2026-05-17 12:01:10
+1057430-1197-SE26,Mantención Correctiva De Caldera,6,Aceptada,CLP,3307900.0,3936401.0,"Supervisión de instalación, ajuste o mantenimiento",1.0,3307900.0,3307900.0,2026-05-02T18:47:50.107,2026-05-18 14:32:08
+1057430-1198-SE26,Mantención Correctiva De Caldera,6,Aceptada,CLP,730000.0,868700.0,"Supervisión de instalación, ajuste o mantenimiento",1.0,730000.0,730000.0,2026-05-02T18:48:24.43,2026-05-18 14:32:08
+1057509-5152-SE26,"Fotocopias Abril 2026 (Conv, Prm)",6,Aceptada,CLP,3487424.0,4150035.0,Anillados,61.0,1200.0,73200.0,2026-05-06T15:39:33.44,2026-05-18 14:32:08
+1057509-5152-SE26,"Fotocopias Abril 2026 (Conv, Prm)",6,Aceptada,CLP,3487424.0,4150035.0,Anillados,43.0,1500.0,64500.0,2026-05-06T15:39:33.44,2026-05-18 14:32:08
+1057509-5152-SE26,"Fotocopias Abril 2026 (Conv, Prm)",6,Aceptada,CLP,3487424.0,4150035.0,Servicios de copias en blanco y negro,119633.0,28.0,3349724.0,2026-05-06T15:39:33.44,2026-05-18 14:32:08
+1057534-536-CC26,Mantención Preventiva Plantas Tratamiento De Agua,6,Aceptada,CLP,1300000.0,1547000.0,Servicio de mantenimiento de equipo de fabricación,1.0,1300000.0,1300000.0,2026-05-06T15:11:23.61,2026-05-18 14:32:08
+1375735-19-AG26,P01 Adq. Equipos Infraestructura,6,Aceptada,CLP,4386370.0,5291180.0,Anemómetros,1.0,349900.0,0.0,2026-05-05T10:53:55.973,2026-05-18 14:32:08
+1375735-19-AG26,P01 Adq. Equipos Infraestructura,6,Aceptada,CLP,4386370.0,5291180.0,Luxómetros,1.0,369900.0,0.0,2026-05-05T10:53:55.973,2026-05-18 14:32:08
+1375735-19-AG26,P01 Adq. Equipos Infraestructura,6,Aceptada,CLP,4386370.0,5291180.0,Pantallas térmicas,1.0,610990.0,0.0,2026-05-05T10:53:55.973,2026-05-18 14:32:08
+1375735-19-AG26,P01 Adq. Equipos Infraestructura,6,Aceptada,CLP,4386370.0,5291180.0,Medidores de voltaje o corriente,2.0,50000.0,0.0,2026-05-05T10:53:55.973,2026-05-18 14:32:08
+1375735-19-AG26,P01 Adq. Equipos Infraestructura,6,Aceptada,CLP,4386370.0,5291180.0,Detectores,1.0,822900.0,0.0,2026-05-05T10:53:55.973,2026-05-18 14:32:08
+1375735-19-AG26,P01 Adq. Equipos Infraestructura,6,Aceptada,CLP,4386370.0,5291180.0,Detectores de gases inflamables o peligrosos para generadores,1.0,276800.0,0.0,2026-05-05T10:53:55.973,2026-05-18 14:32:08
+1375735-19-AG26,P01 Adq. Equipos Infraestructura,6,Aceptada,CLP,4386370.0,5291180.0,Detectores de fugas de líquidos,1.0,829990.0,0.0,2026-05-05T10:53:55.973,2026-05-18 14:32:08
+1375735-19-AG26,P01 Adq. Equipos Infraestructura,6,Aceptada,CLP,4386370.0,5291180.0,Detectores,1.0,825990.0,0.0,2026-05-05T10:53:55.973,2026-05-18 14:32:08
+1375735-19-AG26,P01 Adq. Equipos Infraestructura,6,Aceptada,CLP,4386370.0,5291180.0,Pirómetros,1.0,199900.0,0.0,2026-05-05T10:53:55.973,2026-05-18 14:32:08
+1523-947-AG26,Orden De Compra Generada Por Invitación A Compra Ágil: 1523-482-Cot26,6,Aceptada,CLP,1200000.0,1428000.0,Coctelera o accesorios de cóctel,4.0,300000.0,0.0,2026-05-06T15:36:47.823,2026-05-18 14:32:08
+1576-57-CM26,Rrff - Recarga Bombona Ji Ablastible,12,Recepción Conforme,CLP,4361700.0,5190423.0,GAS LICUADO GRANEL LITRO REGIÓN DEL BIOBÍO,10850.0,402.0,4361700.0,2026-04-16T12:52:04.233,2026-05-18 14:32:08
+1576-62-CM26,Rrff - Recarga Bombona Ji Abastible,12,Recepción Conforme,CLP,495000.0,589050.0,GAS LICUADO GRANEL LITRO REGIÓN DEL BIOBÍO,1250.0,396.0,495000.0,2026-04-20T14:34:06.077,2026-05-18 14:32:08
+1576-72-CM26,Rrff - Recarga Bombona Ji Abastible,12,Recepción Conforme,CLP,5270950.0,6272430.0,GAS LICUADO GRANEL LITRO REGIÓN DEL BIOBÍO,13550.0,389.0,5270950.0,2026-04-30T15:30:19.19,2026-05-18 14:32:08
+2322-183-AG26,Orden De Compra Generada Por Invitación A Compra Ágil: 2322-120-Cot26. Adquisición Talonarios De Infracción Al Tránsito Carabineros De Chile,12,Recepción Conforme,CLP,762200.0,907018.0,Impresión de papelería o formularios comerciales,370.0,2060.0,0.0,2026-03-25T15:31:36.94,2026-05-18 14:32:08

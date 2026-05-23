@@ -1,14 +1,14 @@
 ﻿Codigo,Nombre,CodigoEstado,EstadoDescripcion,TipoMoneda,OrdenTotalNeto,OrdenTotal,Producto,Cantidad,PrecioNeto,ItemTotal,FechaCreacion,FechaProcesamiento
-1002584-90-AG26,Servicio De Aromatización Por 12 Meses Para La Dep1002584-29-Cot26,12,Recepción Conforme,CLP,3881280.0,4618723.0,Desodorantes,12.0,323440.0,0.0,2026-03-13T10:34:22.64,2026-05-22 13:33:33
-1002592-20-AG26,Cdp 705 Servicio De Publicación Diario Digital,12,Recepción Conforme,CLP,59000.0,70210.0,Publicaciones,2.0,29500.0,0.0,2026-04-22T11:26:19.893,2026-05-22 13:33:33
-1002772-6182-SE26,"Canister 300 Cc Vac Id: 1002772-115-Lr25 (Lc,U.Cuidado De La Piel,2204005003,Mmc)",6,Aceptada,CLP,9400000.0,11186000.0,Esponjas de desbridamiento,100.0,94000.0,9400000.0,2026-05-06T14:30:18.043,2026-05-22 13:33:33
-1003473-1455-SE26,Cert. Consumo Folio 12 (1003473-62-Lr25),4,Enviada a Proveedor,CLP,1390125.0,1654249.0,Catéteres de línea arterial,1.0,849330.0,849330.0,2026-03-16T12:51:18.34,2026-05-22 13:33:33
-1003473-1455-SE26,Cert. Consumo Folio 12 (1003473-62-Lr25),4,Enviada a Proveedor,CLP,1390125.0,1654249.0,Catéteres de línea arterial,1.0,540795.0,540795.0,2026-03-16T12:51:18.34,2026-05-22 13:33:33
-1003473-1456-SE26,Cert. Consumo Folio 398 (1003473-62-Lr25),4,Enviada a Proveedor,CLP,540795.0,643546.0,Catéteres de línea arterial,1.0,540795.0,540795.0,2026-03-16T12:58:52.957,2026-05-22 13:33:33
-1003473-1466-SE26,Cert. Consumo Folio S/F (1003473-62-Lr25),4,Enviada a Proveedor,CLP,540795.0,643546.0,Catéteres de línea arterial,1.0,540795.0,540795.0,2026-03-16T15:11:26.057,2026-05-22 13:33:33
-1003473-1467-SE26,Cert. Consumo Folio 177 (1003473-62-Lr25),4,Enviada a Proveedor,CLP,1390125.0,1654249.0,Catéteres de línea arterial,1.0,849330.0,849330.0,2026-03-16T15:23:50.69,2026-05-22 13:33:33
-1003473-1467-SE26,Cert. Consumo Folio 177 (1003473-62-Lr25),4,Enviada a Proveedor,CLP,1390125.0,1654249.0,Catéteres de línea arterial,1.0,540795.0,540795.0,2026-03-16T15:23:50.69,2026-05-22 13:33:33
-1003473-1468-SE26,Cert. Consumo Folio 91 (1003473-62-Lr25),4,Enviada a Proveedor,CLP,1390125.0,1654249.0,Catéteres de línea arterial,1.0,849330.0,849330.0,2026-03-16T15:29:10.45,2026-05-22 13:33:33
-1003473-1468-SE26,Cert. Consumo Folio 91 (1003473-62-Lr25),4,Enviada a Proveedor,CLP,1390125.0,1654249.0,Catéteres de línea arterial,1.0,540795.0,540795.0,2026-03-16T15:29:10.45,2026-05-22 13:33:33
-1003473-1472-SE26,Cert. Consumo Folio 57 (1003473-62-Lr25),4,Enviada a Proveedor,CLP,1390125.0,1654249.0,Catéteres de línea arterial,1.0,849330.0,849330.0,2026-03-16T15:39:44.227,2026-05-22 13:33:33
-1003473-1472-SE26,Cert. Consumo Folio 57 (1003473-62-Lr25),4,Enviada a Proveedor,CLP,1390125.0,1654249.0,Catéteres de línea arterial,1.0,540795.0,540795.0,2026-03-16T15:39:44.227,2026-05-22 13:33:33
+1002584-90-AG26,Servicio De Aromatización Por 12 Meses Para La Dep1002584-29-Cot26,12,Recepción Conforme,CLP,3881280.0,4618723.0,Desodorantes,12.0,323440.0,0.0,2026-03-13T10:34:22.64,2026-05-23 12:01:33
+1002592-20-AG26,Cdp 705 Servicio De Publicación Diario Digital,12,Recepción Conforme,CLP,59000.0,70210.0,Publicaciones,2.0,29500.0,0.0,2026-04-22T11:26:19.893,2026-05-23 12:01:33
+1002772-6182-SE26,"Canister 300 Cc Vac Id: 1002772-115-Lr25 (Lc,U.Cuidado De La Piel,2204005003,Mmc)",6,Aceptada,CLP,9400000.0,11186000.0,Esponjas de desbridamiento,100.0,94000.0,9400000.0,2026-05-06T14:30:18.043,2026-05-23 12:01:33
+1003473-1455-SE26,Cert. Consumo Folio 12 (1003473-62-Lr25),4,Enviada a Proveedor,CLP,1390125.0,1654249.0,Catéteres de línea arterial,1.0,849330.0,849330.0,2026-03-16T12:51:18.34,2026-05-23 12:01:33
+1003473-1455-SE26,Cert. Consumo Folio 12 (1003473-62-Lr25),4,Enviada a Proveedor,CLP,1390125.0,1654249.0,Catéteres de línea arterial,1.0,540795.0,540795.0,2026-03-16T12:51:18.34,2026-05-23 12:01:33
+1003473-1456-SE26,Cert. Consumo Folio 398 (1003473-62-Lr25),4,Enviada a Proveedor,CLP,540795.0,643546.0,Catéteres de línea arterial,1.0,540795.0,540795.0,2026-03-16T12:58:52.957,2026-05-23 12:01:33
+1003473-1466-SE26,Cert. Consumo Folio S/F (1003473-62-Lr25),4,Enviada a Proveedor,CLP,540795.0,643546.0,Catéteres de línea arterial,1.0,540795.0,540795.0,2026-03-16T15:11:26.057,2026-05-23 12:01:33
+1003473-1467-SE26,Cert. Consumo Folio 177 (1003473-62-Lr25),4,Enviada a Proveedor,CLP,1390125.0,1654249.0,Catéteres de línea arterial,1.0,849330.0,849330.0,2026-03-16T15:23:50.69,2026-05-23 12:01:33
+1003473-1467-SE26,Cert. Consumo Folio 177 (1003473-62-Lr25),4,Enviada a Proveedor,CLP,1390125.0,1654249.0,Catéteres de línea arterial,1.0,540795.0,540795.0,2026-03-16T15:23:50.69,2026-05-23 12:01:33
+1003473-1468-SE26,Cert. Consumo Folio 91 (1003473-62-Lr25),4,Enviada a Proveedor,CLP,1390125.0,1654249.0,Catéteres de línea arterial,1.0,849330.0,849330.0,2026-03-16T15:29:10.45,2026-05-23 12:01:33
+1003473-1468-SE26,Cert. Consumo Folio 91 (1003473-62-Lr25),4,Enviada a Proveedor,CLP,1390125.0,1654249.0,Catéteres de línea arterial,1.0,540795.0,540795.0,2026-03-16T15:29:10.45,2026-05-23 12:01:33
+1003473-1472-SE26,Cert. Consumo Folio 57 (1003473-62-Lr25),4,Enviada a Proveedor,CLP,1390125.0,1654249.0,Catéteres de línea arterial,1.0,849330.0,849330.0,2026-03-16T15:39:44.227,2026-05-23 12:01:33
+1003473-1472-SE26,Cert. Consumo Folio 57 (1003473-62-Lr25),4,Enviada a Proveedor,CLP,1390125.0,1654249.0,Catéteres de línea arterial,1.0,540795.0,540795.0,2026-03-16T15:39:44.227,2026-05-23 12:01:33

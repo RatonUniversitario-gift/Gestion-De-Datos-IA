@@ -1,0 +1,122 @@
+{
+    "Cantidad": 23,
+    "FechaCreacion": "2026-05-23T12:01:12.2955729Z",
+    "Version": "v1",
+    "Listado": [
+        {
+            "Codigo": "1057417-11992-AG26",
+            "Nombre": "SG PMT AG NAP MANT SISTEMA DE LLAMADO DE PACIENTES OFTALMOLOGÍA SOL. ADQ. N°423.349",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1057439-3489-TD26",
+            "Nombre": "Orden de Compra generada por Trato Directo ID 1057439-564-FTD26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1075963-6799-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 1075963-746-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1113403-57-SE26",
+            "Nombre": "SERVICIOS PROFESIONALES EVALUACIONES MEDICAS PIE - 2026",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1202511-188-SE26",
+            "Nombre": "SERVICIO DE CAMION ALJIBE COMUNA DE TEMUCO PERIODO ABRIL 2026 CAMION PATENTE JJDH-85 DESDE LICITACION 1202511-10-LE25",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1202511-255-SE26",
+            "Nombre": "SERVICIO DE CAMION ALJIBE COMUNA DE CARAHUE PERIODO ABRIL 2026 CAMION PATENTE TJCW-69 DESDE LICITACION 1202511-10-LE25",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1202511-256-SE26",
+            "Nombre": "SERVICIO DE CAMION ALJIBE COMUNA DE CARAHUE PERIODO ABRIL 2026 CAMION PATENTE VJVF-58 DESDE LICITACION 1202511-10-LE25",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1202511-261-SE26",
+            "Nombre": "SERVICIO DE CAMION ALJIBE COMUNA DE NVA. IMPERIAL PERIODO ABRIL 2026 CAMION PATENTE RJTX-89 DESDE LICITACION 1202511-10-LE25 ",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1218393-178-AG26",
+            "Nombre": "Olla parafina y parafina de manos para terapia de mano Prog. Rehabilitación CEV 1218393-66-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1248771-14-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 1248771-3-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "1376-327-SE26",
+            "Nombre": "F-09 SERVICIO DE FUMIGACIÓN Y EXTERMINACIÓN DE PLAGAS EN UNIDADES PENALES MES MAYO ID13769LE26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "2776-321-AG26",
+            "Nombre": " S.P. N°173464, DAF. INSCRIPCIONES PARA CURSO DE CAPACITACION DE PLANTAS MUNICIPALES PARA FUNCIONARIOS, PARA MEJORAR LOS CONOCIMIENTOS Y GESTION MUNICIPAL, SEGÚN LO ESTABLECIDO EN LOS TERMINOS DE REQUERIMIENTO ADJUNTOSOrden de Compra generada por invitaci",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "2825-177-AG26",
+            "Nombre": "ADQUISICION AIRES ACONDICIONADOS",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "2825-182-AG26",
+            "Nombre": "IMPRESOS PARA PADRES CASA AIDIA",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "3665-316-AG26",
+            "Nombre": "SERVICIO DE VIGILANCIA DE SEGURIDAD PARA DESFILE CÍVICO-MILITAR EN CONMEMORACIÓN DEL 208° ANIVERSARIO DEL FALLECIMIENTO DEL PRÓCER MANUEL RODRÍGUEZ ERDOIZA 2026. DEPARTAMENTO DE COMUNICACIONES. ",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "3834-140-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 3834-53-COT26 INFORMÁTICA",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "3897-283-TD26",
+            "Nombre": "Orden de Compra generada por Trato Directo ID 3897-204-FTD26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "3922-444-AG26",
+            "Nombre": "Mantención de caldera Internado del Liceo Bicentenario Araucanía, fondos de Mantenimiento.",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "4686-400-TD26",
+            "Nombre": "Orden de Compra generada por Trato Directo ID 4686-247-FTD26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "4993-251-SE26",
+            "Nombre": "COMPRA DE ALIMENTOS ADULTO MAYOR.",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "598-120-AG26",
+            "Nombre": "Orden de Compra generada por invitación a compra ágil: 598-73-COT26",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "812261-773-SE26",
+            "Nombre": "DESDE 812261-79-LR24 SERVICIO DE SEGURIDAD Y VIGILANCIA  ABRIL 2026",
+            "CodigoEstado": 6
+        },
+        {
+            "Codigo": "900-548-AG26",
+            "Nombre": "HDS - SERVICIO DE COFFE BREAK Y EXTRAS, UNIDAD DE CAPACITACIONES",
+            "CodigoEstado": 6
+        }
+    ]
+}
